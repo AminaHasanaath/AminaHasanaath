@@ -27,25 +27,26 @@
 
 <br/>
 
-<!-- 🚀 ABOUT ME — ACTION BUTTONS -->
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<!-- 🚀 ABOUT ME — LEFT-ALIGNED BUTTONS -->
+<div style="display: flex; gap: 20px;">
 
   <!-- Portfolio Button -->
   <a href="https://AminaHasanaath.github.io"
      style="
       text-decoration: none;
-      background: #000;
-      padding: 20px 60px;
+      padding: 14px 35px;
       border-radius: 14px;
-      font-size: 24px;
+      font-size: 20px;
       font-weight: 800;
       font-family: monospace;
       color: #5DAEFF;
-      border: 3px solid #5DAEFF;
+      background: linear-gradient(145deg,#000,#0A0A0A);
+      border: 2px solid #5DAEFF;
       transition: 0.25s;
+      box-shadow: 0px 0px 12px rgba(93,174,255,0.4);
      "
-     onmouseover="this.style.boxShadow='0 0 22px #5DAEFF'"
-     onmouseout="this.style.boxShadow='none'">
+     onmouseover="this.style.boxShadow='0 0 18px #5DAEFF'"
+     onmouseout="this.style.boxShadow='0 0 12px rgba(93,174,255,0.4)'">
      🌐 PORTFOLIO
   </a>
 
@@ -53,24 +54,25 @@
   <a href="https://www.linkedin.com/in/amina-hasanaath-7033a1309"
      style="
       text-decoration: none;
-      background: #000;
-      padding: 20px 60px;
+      padding: 14px 35px;
       border-radius: 14px;
-      font-size: 24px;
+      font-size: 20px;
       font-weight: 800;
       font-family: monospace;
       color: #00FFAA;
-      border: 3px solid #00FFAA;
+      background: linear-gradient(145deg,#000,#0A0A0A);
+      border: 2px solid #00FFAA;
       transition: 0.25s;
+      box-shadow: 0px 0px 12px rgba(0,255,170,0.4);
      "
-     onmouseover="this.style.boxShadow='0 0 22px #00FFAA'"
-     onmouseout="this.style.boxShadow='none'">
+     onmouseover="this.style.boxShadow='0 0 18px #00FFAA'"
+     onmouseout="this.style.boxShadow='0 0 12px rgba(0,255,170,0.4)'">
      💼 LINKEDIN
   </a>
 
 </div>
 
-<br/>
+<br/><br/>
 
 <!-- ========================================================= -->
 <!--                         TECH STACK                         -->
@@ -115,7 +117,7 @@ and journey as a Backend & AI enthusiast.
 <br><br>
 
 <!-- ========================================================= -->
-<!--              BIGGER — SIDE-BY-SIDE PROJECT BUTTONS         -->
+<!--              SEND-STYLE GLOWY BUTTONS (BIG)               -->
 <!-- ========================================================= -->
 
 <div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
@@ -124,18 +126,19 @@ and journey as a Backend & AI enthusiast.
   <a href="https://github.com/AminaHasanaath/AminaHasanaath.github.io"
      style="
       text-decoration: none;
-      background: #000;
-      padding: 20px 60px;
-      border-radius: 14px;
-      font-size: 24px;
-      font-weight: 800;
+      padding: 22px 65px;
+      border-radius: 16px;
+      font-size: 26px;
+      font-weight: 900;
       font-family: monospace;
       color: #00E5FF;
+      background: linear-gradient(145deg,#000,#0D0D0D);
       border: 3px solid #00E5FF;
       transition: 0.25s;
+      box-shadow: 0 0 18px rgba(0,229,255,0.6);
      "
-     onmouseover="this.style.boxShadow='0 0 22px #00E5FF'"
-     onmouseout="this.style.boxShadow='none'">
+     onmouseover="this.style.boxShadow='0 0 28px #00E5FF'"
+     onmouseout="this.style.boxShadow='0 0 18px rgba(0,229,255,0.6)'">
      🔗 VIEW REPO
   </a>
 
@@ -143,18 +146,19 @@ and journey as a Backend & AI enthusiast.
   <a href="https://AminaHasanaath.github.io"
      style="
       text-decoration: none;
-      background: #000;
-      padding: 20px 60px;
-      border-radius: 14px;
-      font-size: 24px;
-      font-weight: 800;
+      padding: 22px 65px;
+      border-radius: 16px;
+      font-size: 26px;
+      font-weight: 900;
       font-family: monospace;
       color: #B45BFF;
+      background: linear-gradient(145deg,#000,#0D0D0D);
       border: 3px solid #B45BFF;
       transition: 0.25s;
+      box-shadow: 0 0 18px rgba(180,91,255,0.6);
      "
-     onmouseover="this.style.boxShadow='0 0 22px #B45BFF'"
-     onmouseout="this.style.boxShadow='none'">
+     onmouseover="this.style.boxShadow='0 0 28px #B45BFF'"
+     onmouseout="this.style.boxShadow='0 0 18px rgba(180,91,255,0.6)'">
      🚀 LIVE DEMO
   </a>
 
