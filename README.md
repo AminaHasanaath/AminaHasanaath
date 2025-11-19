@@ -1,43 +1,39 @@
-<!-- --------------------------------------------------------------------- -->
-<!--                     🌌 A M I N A   H A S A N A A T H 🌌               -->
-<!-- --------------------------------------------------------------------- -->
+<!-- 🌌 A M I N A   H A S A N A A T H 🌌 -->
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&color=3ABEFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Amina+Hasanaath+👋;Backend+Developer+in+Progress+🚀;AI+%2B+Backend+Enthusiast+⚙️🤖;Always+Ready+for+the+Next+Big+Bug+🐞" />
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&color=3ABEFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Amina+Hasanaath+👋;Java+Backend+Developer+in+Progress+🚀;AI+%2B+Backend+Enthusiast+⚙️🤖;Always+Ready+for+the+Next+Big+Bug+🐞" />
 </div>
 
----
 
 ## <div align="center">🌸 About Me</div>
 
 <div align="center">
 
-✨ Exploring **Backend Systems + AI integration**  
-🔥 Learning **Backend Development with Java & Spring Boot**  
-🧩 Love **DSA**, **System Programming**, and low-level logic  
-🐛 Debugging is my comfort zone — the tougher the bug, the happier I am  
+✨ Exploring the intersection of **Backend Systems + AI**  
+🔥 Learning **Backend Engineering with Java & Spring Boot**  
+🤖 Working toward **AI + Backend integrations**  
+🧩 Love **DSA**, **system-level concepts**, and logical problem-solving  
+🐛 Debugging feels like solving puzzles I actually enjoy  
 
 </div>
 
----
 
-## <div align="center">🛠 Tech Stack (All in One Place)</div>
+## <div align="center">🛠 Tech Stack</div>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,spring,hibernate,mysql,git,github,linux,postman&theme=dark" height="80" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,python,linux,git,github&theme=dark" height="85" />
 
-<br>
+<br><br>
 
-### 💙 Tech Labels
-**Languages:** Java • Python • C • C++  
-**Backend:** Spring • Hibernate  
-**Database:** MySQL  
-**Tools:** Git • GitHub • Linux • Postman  
+### 💙 Core Areas  
+**Java Backend Development • Spring Boot • REST APIs**  
+**Databases (MySQL) • Hibernate ORM**  
+**AI/ML Concepts • Python Basics**  
+**Linux • Git • GitHub**
 
 </div>
 
----
 
 ## <div align="center">📂 Featured Projects</div>
 
@@ -45,39 +41,36 @@
 
 ### 🚀 **User Management API**
 **Tech:** Java • Spring Boot • MySQL  
-REST API for user registration, login, authentication & CRUD operations.
+REST API for user authentication, registration, CRUD operations.
 
 🔗 *Add your GitHub link here*
 
----
 
 ### 🤖 **AI + Backend Integration**
 **Tech:** Python • Java • REST APIs  
-A backend pipeline that connects to AI models for text inference.
+Backend service that interacts with AI/ML models.
 
 🔗 *Add your GitHub link here*
 
----
 
 ### 🌐 **Portfolio Website**
 **Tech:** HTML • CSS • JS  
-Modern portfolio showcasing your work and journey.
+Modern personal portfolio showcasing your journey.
 
-🔗 *Add your GitHub link here*
+🔗 *Add your GitHub link here* — **{coming soon}**
 
----
 
-### 🧩 **Add More Projects (Template)**
+### 🧩 **Add More Projects (Template)**  
 ```
-### 🧩 Project Title  
-**Tech:**  
+### Project Title
+Tech Stack:  
 Short description…
 
-🔗 GitHub: your-link-here  
+🔗 GitHub: your-link-here
 ```
+
 </div>
 
----
 
 ## <div align="center">📈 GitHub Analytics</div>
 
@@ -93,7 +86,6 @@ Short description…
 
 </div>
 
----
 
 ## <div align="center">🌐 Connect With Me</div>
 
@@ -103,15 +95,13 @@ Short description…
   </a>
 </div>
 
----
 
 ## <div align="center">💡 Fun Fact</div>
 
 <div align="center">
-✨ When one bug disappears… another one respawns like a boss level.  
+✨ Every time I fix a bug, the universe sends me a new one to stay humble.
 </div>
 
----
 
 <div align="center">
   
