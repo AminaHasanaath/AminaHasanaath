@@ -12,6 +12,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=5DAEFF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Amina+Hasanaath+👋;Backend+Developer+in+Progress+🚀;AI+%2B+Backend+Enthusiast+⚙️🤖;Always+ready+for+the+next+big+Bug+🐞" />
 </div>
+
 <br/>
 
 <!-- ========================================================= -->
@@ -56,6 +57,7 @@
 <!-- ========================================================= -->
 
 ## 📂 Featured Project  
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=AminaHasanaath.github.io&theme=algolia" />
@@ -67,17 +69,61 @@ and journey as a Backend & AI enthusiast.
 **Tech:** HTML • CSS • JavaScript • GitHub Pages  
 <br><br>
 
-<!-- ======================= GLASS NEON BUTTONS ======================= -->
+<!-- ========================================================= -->
+<!--                   🔥 BIG NEON BUTTONS                      -->
+<!-- ========================================================= -->
 
-<a href="https://github.com/AminaHasanaath/AminaHasanaath.github.io">
-  <img height="55" src="https://img.shields.io/badge/VIEW%20REPO-000000?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=101010&color=000000">
-</a>
+<div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
 
-&nbsp;&nbsp;
+  <!-- VIEW REPO -->
+  <a href="https://github.com/AminaHasanaath/AminaHasanaath.github.io" 
+     style="
+      text-decoration: none;
+      background: #000;
+      padding: 18px 40px;
+      border-radius: 12px;
+      font-size: 22px;
+      font-weight: 700;
+      font-family: monospace;
+      color: #00E5FF;
+      border: 2px solid #00E5FF;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      transition: 0.2s;
+     "
+     onmouseover="this.style.boxShadow='0 0 14px #00E5FF'"
+     onmouseout="this.style.boxShadow='none'">
+     
+     <img src="https://skillicons.dev/icons?i=github" height="28">
+     VIEW REPO
+  </a>
 
-<a href="https://AminaHasanaath.github.io">
-  <img height="55" src="https://img.shields.io/badge/LIVE%20DEMO-000000?style=for-the-badge&logo=google-chrome&logoColor=7F00FF&labelColor=111111&color=000000">
-</a>
+  <!-- LIVE DEMO -->
+  <a href="https://AminaHasanaath.github.io"
+     style="
+      text-decoration: none;
+      background: #000;
+      padding: 18px 40px;
+      border-radius: 12px;
+      font-size: 22px;
+      font-weight: 700;
+      font-family: monospace;
+      color: #B45BFF;
+      border: 2px solid #B45BFF;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      transition: 0.2s;
+     "
+     onmouseover="this.style.boxShadow='0 0 14px #B45BFF'"
+     onmouseout="this.style.boxShadow='none'">
+     
+     <img src="https://skillicons.dev/icons?i=chrome" height="28">
+     LIVE DEMO
+  </a>
+
+</div>
 
 </div>
 
@@ -89,9 +135,30 @@ and journey as a Backend & AI enthusiast.
 
 ## 🌐 Connect With Me  
 <div align="center">
-  <a href="https://www.linkedin.com/in/amina-hasanaath-7033a1309">
-    <img src="https://img.shields.io/badge/LinkedIn-5DAEFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="https://www.linkedin.com/in/amina-hasanaath-7033a1309"
+     style="
+      text-decoration: none;
+      background: #5DAEFF;
+      padding: 18px 42px;
+      border-radius: 12px;
+      font-size: 22px;
+      font-weight: 700;
+      font-family: monospace;
+      color: #000;
+      border: 2px solid #5DAEFF;
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+      transition: 0.2s;
+     "
+     onmouseover="this.style.boxShadow='0 0 14px #5DAEFF'"
+     onmouseout="this.style.boxShadow='none'">
+
+     <img src="https://skillicons.dev/icons?i=linkedin" height="28">
+     LINKEDIN
   </a>
+
 </div>
 
 <br/>
@@ -113,3 +180,5 @@ and journey as a Backend & AI enthusiast.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:5DAEFF&height=90&section=footer"/>
 </div>
+
+
