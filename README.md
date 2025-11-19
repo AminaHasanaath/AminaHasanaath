@@ -1,37 +1,77 @@
-<h1 align="center">Hi, I'm Amina Hasanaath 👋</h1>
+<!-- --------------------------------------------------------------------- -->
+<!--                     🌟 A M I N A   H A S A N A A T H 🌟               -->
+<!-- --------------------------------------------------------------------- -->
 
-<p align="center">
-Curious to integrate Backend systems with AI • Learning Backend with Java • DSA & System-Level Programming  
-<br>
-Always ready for the next big Bug 🐞🚀
-</p>
+<div align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=73C2FB&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Amina+Hasanaath+👋;Backend+Developer+in+Progress+🚀;Curious+about+AI+%2B+Backend+⚙️🤖;Always+ready+for+the+next+big+Bug+🐞" />
 
----
-
-## 🚀 About Me
-- 🔧 Learning **Backend Development with Java**
-- 🤖 Exploring **AI + Backend Integrations**
-- 🧩 DSA, System Design & Low-Level Programming Enthusiast
-- 🐛 Debugging my way into better code (one bug at a time!)
+</div>
 
 ---
 
-## 🛠 Tech Stack
-**Languages:** Java, C, Python  
-**Backend:** Spring Boot (learning), REST APIs  
-**Databases:** MySQL  
-**Other:** Git, Linux, OOP, DSA
+## 🌸 About Me  
+✨ Curious about integrating **Backend Systems with AI**  
+🔥 Learning **Backend Development in Java**  
+🧩 Love **DSA**, **System-Level Programming**, and low-level concepts  
+🐛 Debugging = Brain Gym. I enjoy fixing the tricky ones!  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AminaHasanaath&show_icons=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminaHasanaath&layout=compact" height="160" />
-</p>
+## 🛠 Tech Stack & Tools
+
+<div align="center">
+
+### **Languages**
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+
+### **Backend & Frameworks**
+<img src="https://skillicons.dev/icons?i=spring,hibernate" />
+
+### **Databases**
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+### **Tools**
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman" />
+
+</div>
 
 ---
 
-## 🔗 Connect With Me
-<a href="https://www.linkedin.com/in/amina-hasanaath-7033a1309">LinkedIn</a>
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+<br><br>
+
+<img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/amina-hasanaath-7033a1309">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 💡 Fun Fact
+✨ The best part of coding? When the bug finally disappears…  
+…and a new one magically appears 💫
+
+---
+
+<div align="center">
+  
+### ⭐ If you like my profile, consider giving a star to my repositories!
+
+</div>
 
