@@ -58,21 +58,34 @@
 
 <div align="center">
 
-<!-- Temporary placeholder card (no errors) -->
-<img width="420" src="https://img.shields.io/badge/Portfolio%20Website-coming%20soon-5DAEFF?style=for-the-badge&logo=github" />
+<!-- Elegant Neon Project Card -->
+<table>
+  <tr>
+    <td align="center" width="450">
+      
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=AminaHasanaath.github.io&theme=algolia" />
 
-<br/><br/>
+      <h3>🌐 Portfolio Website</h3>
+      <p>
+        A modern, clean personal portfolio built to showcase my skills, projects,  
+        and journey as a Backend & AI enthusiast.
+      </p>
+      <b>Tech:</b> HTML • CSS • JavaScript • Hosting (GitHub Pages) <br><br>
 
-<b>Portfolio Website</b> — <i>(coming soon)</i>  
-Tech: HTML • CSS • JavaScript  
-A clean personal portfolio site to showcase my projects.
-
-<!-- When repo is created, replace this IMG with your GitHub stats pin -->
-<!-- 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=Portfolio-Website&theme=algolia" /> 
--->
+      <a href="https://github.com/AminaHasanaath/AminaHasanaath.github.io">
+        🔗 View Repository
+      </a>
+      &nbsp;|&nbsp;
+      <a href="https://AminaHasanaath.github.io">
+        🚀 Live Demo
+      </a>
+      
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 <br/>
 
