@@ -10,7 +10,7 @@
 <!-- ========================================================= -->
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=5DAEFF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Amina+Hasanaath+👋;Backend+Developer+in+Progress+🚀;AI+%2B+Backend+Enthusiast+⚙️🤖;Always+ready+for+the+next+big+Bug+🐞" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=5DAEFF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Amina+Hasanaath+👋;Backend+Developer+in+Progress+🚀;AI+%2B+Backend+Tech_Savy+⚙️🤖;Always+ready+for+the+next+big+Bug+🐞" />
 </div>
 
 <br/>
@@ -114,9 +114,7 @@ and journey as a Backend & AI enthusiast.
 <!-- ========================================================= -->
 
 ## 💡 Fun Fact  
-✨ The best part of coding? When the bug finally disappears…  
-…and a new one magically appears 💫
-
+✨ The best part of coding? When the bug finally disappears…
 <br/>
 
 <!-- ========================================================= -->
