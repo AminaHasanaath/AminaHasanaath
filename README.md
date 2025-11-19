@@ -57,19 +57,13 @@
 <!-- ========================================================= -->
 <!--                    FEATURED PROJECT                        -->
 <!-- ========================================================= -->
-
 ## 📂 Featured Project  
-## 📂 Featured Project  
-
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=AminaHasanaath.github.io&theme=algolia" />
 
 ### 🌐 Portfolio Website
-
 A modern, clean personal portfolio built to showcase my skills, projects  
 and journey as a Backend & AI enthusiast.
-
 **Tech:** HTML • CSS • JavaScript • GitHub Pages
 
 <br>
