@@ -33,13 +33,9 @@
 
 ## 🛠 Tech Stack  
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,python,c,vscode,github" height="85" />
 <br>
-<b>
-Java • Spring Boot • Hibernate • MySQL • Python (AI/ML Basics) • C • VS Code • GitHub
-</b>
-
+<b>Java • Spring Boot • Hibernate • MySQL • Python (AI/ML Basics) • C • VS Code • GitHub</b>
 </div>
 
 <br/>
@@ -49,7 +45,6 @@ Java • Spring Boot • Hibernate • MySQL • Python (AI/ML Basics) • C •
 <!-- ========================================================= -->
 
 ## 📊 GitHub Analytics  
-
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=AminaHasanaath&show_icons=true&theme=algolia" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminaHasanaath&layout=compact&theme=algolia" />
@@ -74,12 +69,16 @@ and journey as a Backend & AI enthusiast.
 **Tech:** HTML • CSS • JavaScript • GitHub Pages  
 <br><br>
 
-<!-- NEON BUTTONS -->
+<!-- ======================= BUTTONS (STYLE 1) ======================= -->
+
 <a href="https://github.com/AminaHasanaath/AminaHasanaath.github.io">
-  <img src="https://img.shields.io/badge/VIEW%20REPO-00E5FF?style=for-the-badge&logo=github&logoColor=0A0A0A&labelColor=00F0FF&color=00E5FF" />
-</a>&nbsp;&nbsp;
+  <img height="55" src="https://img.shields.io/badge/VIEW%20REPO-000000?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=101010&color=000000">
+</a>
+
+&nbsp;&nbsp;
+
 <a href="https://AminaHasanaath.github.io">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-7F00FF?style=for-the-badge&logo=google-chrome&logoColor=ffffff&labelColor=9A00FF&color=7F00FF" />
+  <img height="55" src="https://img.shields.io/badge/LIVE%20DEMO-000000?style=for-the-badge&logo=google-chrome&logoColor=7F00FF&labelColor=111111&color=000000">
 </a>
 
 </div>
@@ -91,7 +90,6 @@ and journey as a Backend & AI enthusiast.
 <!-- ========================================================= -->
 
 ## 🌐 Connect With Me  
-
 <div align="center">
   <a href="https://www.linkedin.com/in/amina-hasanaath-7033a1309">
     <img src="https://img.shields.io/badge/LinkedIn-5DAEFF?style=for-the-badge&logo=linkedin&logoColor=white" />
