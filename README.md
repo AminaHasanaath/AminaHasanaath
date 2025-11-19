@@ -4,6 +4,7 @@
 <p align="center">
   <img src="sandbox:/mnt/data/banner_final.svg" width="1000">
 </p>
+
 <!-- ========================================================= -->
 <!--               🌟 TAGLINE ANIMATION                         -->
 <!-- ========================================================= -->
@@ -11,7 +12,9 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=5DAEFF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Amina+Hasanaath+👋;Backend+Developer+in+Progress+🚀;AI+%2B+Backend+Enthusiast+⚙️🤖;Always+ready+for+the+next+big+Bug+🐞" />
 </div>
+
 <br/>
+
 <!-- ========================================================= -->
 <!--                         ABOUT ME                           -->
 <!-- ========================================================= -->
@@ -23,6 +26,7 @@
 🐛 Debugging = Brain Gym — I enjoy hunting tricky bugs!  
 
 <br/>
+
 <!-- ========================================================= -->
 <!--                         TECH STACK                         -->
 <!-- ========================================================= -->
@@ -35,6 +39,7 @@
 <b>Java • Spring Boot • Hibernate • MySQL • Python (AI/ML Basics) • C • VS Code • GitHub</b>
 </div>
 
+<br/>
 
 <!-- ========================================================= -->
 <!--                     GITHUB ANALYTICS                       -->
@@ -49,7 +54,6 @@
 
 <br/>
 
-
 <!-- ========================================================= -->
 <!--                    FEATURED PROJECT                        -->
 <!-- ========================================================= -->
@@ -58,7 +62,6 @@
 
 <div align="center">
 
-<!-- Elegant Neon Project Card -->
 <table>
   <tr>
     <td align="center" width="450">
@@ -66,19 +69,18 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=AminaHasanaath.github.io&theme=algolia" />
 
       <h3>🌐 Portfolio Website</h3>
+
       <p>
         A modern, clean personal portfolio built to showcase my skills, projects,  
         and journey as a Backend & AI enthusiast.
       </p>
-      <b>Tech:</b> HTML • CSS • JavaScript • Hosting (GitHub Pages) <br><br>
 
-      <a href="https://github.com/AminaHasanaath/AminaHasanaath.github.io">
-        🔗 View Repository
-      </a>
+      <b>Tech:</b> HTML • CSS • JavaScript • Hosting (GitHub Pages)  
+      <br><br>
+
+      <a href="https://github.com/AminaHasanaath/AminaHasanaath.github.io">🔗 View Repository</a>
       &nbsp;|&nbsp;
-      <a href="https://AminaHasanaath.github.io">
-        🚀 Live Demo
-      </a>
+      <a href="https://AminaHasanaath.github.io">🚀 Live Demo</a>
       
     </td>
   </tr>
@@ -86,9 +88,7 @@
 
 </div>
 
-
 <br/>
-
 
 <!-- ========================================================= -->
 <!--                       SOCIAL LINKS                         -->
@@ -104,7 +104,6 @@
 
 <br/>
 
-
 <!-- ========================================================= -->
 <!--                         FUN FACT                           -->
 <!-- ========================================================= -->
@@ -114,7 +113,6 @@
 …and a new one magically appears 💫
 
 <br/>
-
 
 <!-- ========================================================= -->
 <!--                       BLUE NEON FOOTER                     -->
