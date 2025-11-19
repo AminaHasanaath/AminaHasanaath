@@ -27,15 +27,15 @@
 
 <br/>
 
-<!-- ******** LEFT-ALIGNED BUTTONS (PORTFOLIO + LINKEDIN) ******** -->
+<!-- ******** LEFT-ALIGNED CLICKABLE BUTTONS (PORTFOLIO + LINKEDIN) ******** -->
 
-<div align="left" style="margin-left: 20px;">
+<div align="left" style="margin-left: 20px; display: flex; gap: 20px; flex-wrap: wrap;">
 
 <!-- PORTFOLIO BUTTON -->
 <a href="https://AminaHasanaath.github.io"
 style="
-display:inline-block;
 text-decoration:none;
+display:inline-block;
 background:#1b1b1b;
 padding:14px 40px;
 border-radius:30px;
@@ -47,13 +47,11 @@ transition:0.25s;">
 🌐 View Portfolio
 </a>
 
-&nbsp;&nbsp;
-
 <!-- LINKEDIN BUTTON -->
 <a href="https://www.linkedin.com/in/amina-hasanaath-7033a1309"
 style="
-display:inline-block;
 text-decoration:none;
+display:inline-block;
 background:#1b1b1b;
 padding:14px 40px;
 border-radius:30px;
@@ -111,7 +109,7 @@ and journey as a Backend & AI enthusiast.
 **Tech:** HTML • CSS • JavaScript • GitHub Pages  
 <br><br>
 
-<!-- ******** SIDE-BY-SIDE BIG MODERN BUTTONS ******** -->
+<!-- ******** SIDE-BY-SIDE CLICKABLE BUTTONS ******** -->
 
 <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
 
@@ -119,6 +117,7 @@ and journey as a Backend & AI enthusiast.
 <a href="https://github.com/AminaHasanaath/AminaHasanaath.github.io"
 style="
 text-decoration:none;
+display:inline-block;
 background:#1b1b1b;
 padding:18px 55px;
 border-radius:30px;
@@ -134,6 +133,7 @@ transition:0.25s;">
 <a href="https://AminaHasanaath.github.io"
 style="
 text-decoration:none;
+display:inline-block;
 background:#1b1b1b;
 padding:18px 55px;
 border-radius:30px;
@@ -168,3 +168,4 @@ transition:0.25s;">
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:5DAEFF&height=90&section=footer"/>
 </div>
+
