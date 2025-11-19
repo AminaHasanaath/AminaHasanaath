@@ -2,8 +2,45 @@
 <!--         🚀 CYBERPUNK GLITCH BANNER (OP LEVEL)             -->
 <!-- ========================================================= -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text=Amina%20Hasanaath&width=1000&height=250" />
+  <svg width="1000" height="250">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#007bff;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#000000;stop-opacity:1" />
+      </linearGradient>
+
+      <style>
+        .title {
+          font-family: 'Segoe UI', sans-serif;
+          font-size: 50px;
+          font-weight: 700;
+          fill: white;
+          letter-spacing: 2px;
+          text-transform: uppercase;
+        }
+        .subtitle {
+          font-family: 'Segoe UI', sans-serif;
+          font-size: 22px;
+          fill: #b0d8ff;
+        }
+      </style>
+    </defs>
+
+    <!-- Background -->
+    <rect width="1000" height="250" fill="url(#grad)" rx="20" />
+
+    <!-- Main Text -->
+    <text x="500" y="115" text-anchor="middle" class="title">
+      Amina Hasanaath
+    </text>
+
+    <!-- Subtitle -->
+    <text x="500" y="165" text-anchor="middle" class="subtitle">
+      Java Backend Developer • AI / ML Enthusiast
+    </text>
+  </svg>
 </p>
+
 
 <!-- ========================================================= -->
 <!--               🌟 TAGLINE ANIMATION                         -->
