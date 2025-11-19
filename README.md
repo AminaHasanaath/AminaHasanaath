@@ -27,6 +27,51 @@
 
 <br/>
 
+<!-- 🚀 ABOUT ME — ACTION BUTTONS -->
+<div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
+
+  <!-- Portfolio Button -->
+  <a href="https://AminaHasanaath.github.io"
+     style="
+      text-decoration: none;
+      background: #000;
+      padding: 18px 55px;
+      border-radius: 12px;
+      font-size: 22px;
+      font-weight: 700;
+      font-family: monospace;
+      color: #5DAEFF;
+      border: 2px solid #5DAEFF;
+      transition: 0.25s;
+     "
+     onmouseover="this.style.boxShadow='0 0 18px #5DAEFF'"
+     onmouseout="this.style.boxShadow='none'">
+     🌐 VIEW PORTFOLIO
+  </a>
+
+  <!-- LinkedIn Button -->
+  <a href="https://www.linkedin.com/in/amina-hasanaath-7033a1309"
+     style="
+      text-decoration: none;
+      background: #000;
+      padding: 18px 55px;
+      border-radius: 12px;
+      font-size: 22px;
+      font-weight: 700;
+      font-family: monospace;
+      color: #00FFAA;
+      border: 2px solid #00FFAA;
+      transition: 0.25s;
+     "
+     onmouseover="this.style.boxShadow='0 0 18px #00FFAA'"
+     onmouseout="this.style.boxShadow='none'">
+     💼 LINKEDIN
+  </a>
+
+</div>
+
+<br/>
+
 <!-- ========================================================= -->
 <!--                         TECH STACK                         -->
 <!-- ========================================================= -->
@@ -70,94 +115,50 @@ and journey as a Backend & AI enthusiast.
 <br><br>
 
 <!-- ========================================================= -->
-<!--                   🔥 BIG NEON BUTTONS                      -->
+<!--              BIGGER — SIDE-BY-SIDE PROJECT BUTTONS         -->
 <!-- ========================================================= -->
 
 <div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
 
-  <!-- VIEW REPO -->
-  <a href="https://github.com/AminaHasanaath/AminaHasanaath.github.io" 
+  <!-- VIEW REPO BUTTON -->
+  <a href="https://github.com/AminaHasanaath/AminaHasanaath.github.io"
      style="
       text-decoration: none;
       background: #000;
-      padding: 18px 40px;
+      padding: 20px 55px;
       border-radius: 12px;
-      font-size: 22px;
+      font-size: 24px;
       font-weight: 700;
       font-family: monospace;
       color: #00E5FF;
       border: 2px solid #00E5FF;
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      transition: 0.2s;
+      transition: 0.25s;
      "
-     onmouseover="this.style.boxShadow='0 0 14px #00E5FF'"
+     onmouseover="this.style.boxShadow='0 0 18px #00E5FF'"
      onmouseout="this.style.boxShadow='none'">
-     
-  <img src="https://skillicons.dev/icons?i=github" height="28">
-     VIEW REPO
+     🔗 VIEW REPO
   </a>
 
-  <!-- LIVE DEMO -->
+  <!-- LIVE DEMO BUTTON -->
   <a href="https://AminaHasanaath.github.io"
      style="
       text-decoration: none;
       background: #000;
-      padding: 18px 40px;
+      padding: 20px 55px;
       border-radius: 12px;
-      font-size: 22px;
+      font-size: 24px;
       font-weight: 700;
       font-family: monospace;
       color: #B45BFF;
       border: 2px solid #B45BFF;
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      transition: 0.2s;
+      transition: 0.25s;
      "
-     onmouseover="this.style.boxShadow='0 0 14px #B45BFF'"
+     onmouseover="this.style.boxShadow='0 0 18px #B45BFF'"
      onmouseout="this.style.boxShadow='none'">
-     
-   <img src="https://skillicons.dev/icons?i=chrome" height="28">
-     LIVE DEMO
+     🚀 LIVE DEMO
   </a>
 
 </div>
-
-</div>
-
-<br/>
-
-<!-- ========================================================= -->
-<!--                       SOCIAL LINKS                         -->
-<!-- ========================================================= -->
-
-## 🌐 Connect With Me  
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/amina-hasanaath-7033a1309"
-     style="
-      text-decoration: none;
-      background: #5DAEFF;
-      padding: 18px 42px;
-      border-radius: 12px;
-      font-size: 22px;
-      font-weight: 700;
-      font-family: monospace;
-      color: #000;
-      border: 2px solid #5DAEFF;
-      display: inline-flex;
-      align-items: center;
-      gap: 12px;
-      transition: 0.2s;
-     "
-     onmouseover="this.style.boxShadow='0 0 14px #5DAEFF'"
-     onmouseout="this.style.boxShadow='none'">
-
-   <img src="https://skillicons.dev/icons?i=linkedin" height="28">
-     LINKEDIN
-  </a>
 
 </div>
 
