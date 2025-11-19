@@ -59,31 +59,23 @@
 <!-- ========================================================= -->
 
 ## 📂 Featured Project  
+## 📂 Featured Project  
+
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="450">
-      
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=AminaHasanaath.github.io&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=AminaHasanaath.github.io&theme=algolia" />
 
-   <h3>🌐 Portfolio Website</h3>
+### 🌐 Portfolio Website
 
-  <p>
-        A modern, clean personal portfolio built to showcase my skills, projects  
-        and journey as a Backend & AI enthusiast.
-  </p>
+A modern, clean personal portfolio built to showcase my skills, projects  
+and journey as a Backend & AI enthusiast.
 
-  <b>Tech:</b> HTML • CSS • JavaScript • Hosting (GitHub Pages)  
-      <br><br>
+**Tech:** HTML • CSS • JavaScript • GitHub Pages
 
-  <a href="https://github.com/AminaHasanaath/AminaHasanaath.github.io">🔗 View Repository</a>
-      &nbsp;|&nbsp;
-  <a href="https://AminaHasanaath.github.io">🚀 Live Demo</a>
-     
-  </td>
-  </tr>
-</table>
+<br>
+
+🔗 **Repo:** https://github.com/AminaHasanaath/AminaHasanaath.github.io  
+🚀 **Live Demo:** https://AminaHasanaath.github.io
 
 </div>
 
