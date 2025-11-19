@@ -10,7 +10,7 @@
 <!-- ========================================================= -->
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=5DAEFF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Amina+Hasanaath+👋;Backend+Developer+in+Progress+🚀;AI+%2B+Backend+Enthusiast+⚙️🤖;Always+ready+for+the+next+big+Bug+🐞" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=5DAEFF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Amina+Hasanaath+👋;Backend+Developer+in+Progress+🚀;AI+%2B+Backend+Enthusiast+⚙️🤖;Always+ready+for+the+next+big+Bug+🐞" />
 </div>
 
 <br/>
@@ -27,50 +27,21 @@
 
 <br/>
 
-<!-- 🚀 ABOUT ME — ACTION BUTTONS -->
-<div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
+<!-- ========================================================= -->
+<!--                  ABOUT ME ACTION BUTTONS                   -->
+<!-- ========================================================= -->
 
-  <!-- Portfolio Button -->
-  <a href="https://AminaHasanaath.github.io"
-     style="
-      text-decoration: none;
-      background: #000;
-      padding: 18px 55px;
-      border-radius: 12px;
-      font-size: 22px;
-      font-weight: 700;
-      font-family: monospace;
-      color: #5DAEFF;
-      border: 2px solid #5DAEFF;
-      transition: 0.25s;
-     "
-     onmouseover="this.style.boxShadow='0 0 18px #5DAEFF'"
-     onmouseout="this.style.boxShadow='none'">
-     🌐 VIEW PORTFOLIO
+<div align="center" style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap; margin-bottom:18px;">
+
+  <a href="https://AminaHasanaath.github.io" style="text-decoration:none; display:inline-block; padding:16px 48px; border-radius:12px; background:#000; color:#5DAEFF; border:2px solid #5DAEFF; font-weight:700; font-family:monospace; font-size:20px;">
+    🌐 VIEW PORTFOLIO
   </a>
 
-  <!-- LinkedIn Button -->
-  <a href="https://www.linkedin.com/in/amina-hasanaath-7033a1309"
-     style="
-      text-decoration: none;
-      background: #000;
-      padding: 18px 55px;
-      border-radius: 12px;
-      font-size: 22px;
-      font-weight: 700;
-      font-family: monospace;
-      color: #00FFAA;
-      border: 2px solid #00FFAA;
-      transition: 0.25s;
-     "
-     onmouseover="this.style.boxShadow='0 0 18px #00FFAA'"
-     onmouseout="this.style.boxShadow='none'">
-     💼 LINKEDIN
+  <a href="https://www.linkedin.com/in/amina-hasanaath-7033a1309" style="text-decoration:none; display:inline-block; padding:16px 48px; border-radius:12px; background:#000; color:#00FFAA; border:2px solid #00FFAA; font-weight:700; font-family:monospace; font-size:20px;">
+    💼 LINKEDIN
   </a>
 
 </div>
-
-<br/>
 
 <!-- ========================================================= -->
 <!--                         TECH STACK                         -->
@@ -78,9 +49,9 @@
 
 ## 🛠 Tech Stack  
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,python,c,vscode,github" height="85" />
-<br>
-<b>Java • Spring Boot • Hibernate • MySQL • Python (AI/ML Basics) • C • VS Code • GitHub</b>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,python,c,vscode,github" height="85" />
+  <br>
+  <b>Java • Spring Boot • Hibernate • MySQL • Python (AI/ML Basics) • C • VS Code • GitHub</b>
 </div>
 
 <br/>
@@ -105,60 +76,24 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=AminaHasanaath.github.io&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=AminaHasanaath.github.io&theme=algolia" />
 
-### 🌐 Portfolio Website  
-A modern, clean personal portfolio built to showcase my skills, projects  
-and journey as a Backend & AI enthusiast.
+  ### 🌐 Portfolio Website  
+  A modern, clean personal portfolio built to showcase my skills, projects  
+  and journey as a Backend & AI enthusiast.
 
-**Tech:** HTML • CSS • JavaScript • GitHub Pages  
-<br><br>
+  **Tech:** HTML • CSS • JavaScript • GitHub Pages  
+  <br><br>
 
-<!-- ========================================================= -->
-<!--              BIGGER — SIDE-BY-SIDE PROJECT BUTTONS         -->
-<!-- ========================================================= -->
+  <div style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
+    <a href="https://github.com/AminaHasanaath/AminaHasanaath.github.io" style="text-decoration:none; display:inline-block; padding:18px 56px; border-radius:12px; background:#000; color:#00E5FF; border:2px solid #00E5FF; font-weight:800; font-family:monospace; font-size:22px;">
+      🔗 VIEW REPO
+    </a>
 
-<div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
-
-  <!-- VIEW REPO BUTTON -->
-  <a href="https://github.com/AminaHasanaath/AminaHasanaath.github.io"
-     style="
-      text-decoration: none;
-      background: #000;
-      padding: 20px 55px;
-      border-radius: 12px;
-      font-size: 24px;
-      font-weight: 700;
-      font-family: monospace;
-      color: #00E5FF;
-      border: 2px solid #00E5FF;
-      transition: 0.25s;
-     "
-     onmouseover="this.style.boxShadow='0 0 18px #00E5FF'"
-     onmouseout="this.style.boxShadow='none'">
-     🔗 VIEW REPO
-  </a>
-
-  <!-- LIVE DEMO BUTTON -->
-  <a href="https://AminaHasanaath.github.io"
-     style="
-      text-decoration: none;
-      background: #000;
-      padding: 20px 55px;
-      border-radius: 12px;
-      font-size: 24px;
-      font-weight: 700;
-      font-family: monospace;
-      color: #B45BFF;
-      border: 2px solid #B45BFF;
-      transition: 0.25s;
-     "
-     onmouseover="this.style.boxShadow='0 0 18px #B45BFF'"
-     onmouseout="this.style.boxShadow='none'">
-     🚀 LIVE DEMO
-  </a>
-
-</div>
+    <a href="https://AminaHasanaath.github.io" style="text-decoration:none; display:inline-block; padding:18px 56px; border-radius:12px; background:#000; color:#B45BFF; border:2px solid #B45BFF; font-weight:800; font-family:monospace; font-size:22px;">
+      🚀 LIVE DEMO
+    </a>
+  </div>
 
 </div>
 
