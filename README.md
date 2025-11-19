@@ -31,6 +31,7 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,python,c,vscode,github" height="85" />
+<br>
 <b>Java • Spring Boot • Hibernate • MySQL • Python (AI/ML Basics) • C • VS Code • GitHub</b>
 </div>
 
