@@ -2,7 +2,7 @@
 <!--         🚀 CYBERPUNK GLITCH BANNER (OP LEVEL)             -->
 <!-- ========================================================= -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=textBox&text=Amina%20Hasanaath&color=gradient" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text=Amina%20Hasanaath&width=1000&height=250" />
 </p>
 
 <!-- ========================================================= -->
