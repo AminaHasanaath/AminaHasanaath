@@ -36,7 +36,10 @@
 
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,python,c,vscode,github" height="85" />
 <br>
-<b>Java • Spring Boot • Hibernate • MySQL • Python (AI/ML Basics) • C • VS Code • GitHub</b>
+<b>
+Java • Spring Boot • Hibernate • MySQL • Python (AI/ML Basics) • C • VS Code • GitHub
+</b>
+
 </div>
 
 <br/>
@@ -57,32 +60,29 @@
 <!-- ========================================================= -->
 <!--                    FEATURED PROJECT                        -->
 <!-- ========================================================= -->
+
 ## 📂 Featured Project  
+
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=AminaHasanaath.github.io&theme=algolia" />
 
-### 🌐 Portfolio Website
-
+### 🌐 Portfolio Website  
 A modern, clean personal portfolio built to showcase my skills, projects  
 and journey as a Backend & AI enthusiast.
 
 **Tech:** HTML • CSS • JavaScript • GitHub Pages  
 <br><br>
 
-<!-- Buttons -->
+<!-- NEON BUTTONS -->
 <a href="https://github.com/AminaHasanaath/AminaHasanaath.github.io">
-  <img src="https://img.shields.io/badge/Repository-5DAEFF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-&nbsp;&nbsp;
-
+  <img src="https://img.shields.io/badge/VIEW%20REPO-00E5FF?style=for-the-badge&logo=github&logoColor=0A0A0A&labelColor=00F0FF&color=00E5FF" />
+</a>&nbsp;&nbsp;
 <a href="https://AminaHasanaath.github.io">
-  <img src="https://img.shields.io/badge/Live%20Demo-004E92?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE%20DEMO-7F00FF?style=for-the-badge&logo=google-chrome&logoColor=ffffff&labelColor=9A00FF&color=7F00FF" />
 </a>
 
 </div>
-
-
 
 <br/>
 
