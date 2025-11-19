@@ -32,35 +32,14 @@
 <div align="left" style="margin-left: 20px; display: flex; gap: 20px; flex-wrap: wrap;">
 
 <!-- PORTFOLIO BUTTON -->
-<a href="https://AminaHasanaath.github.io"
-style="
-text-decoration:none;
-display:inline-block;
-background:#1b1b1b;
-padding:14px 40px;
-border-radius:30px;
-font-size:20px;
-font-weight:600;
-color:white;
-border:1px solid #5DAEFF;
-transition:0.25s;">
-🌐 View Portfolio
+<a href="https://AminaHasanaath.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=windows-terminal&logoColor=5DAEFF" />
 </a>
 
 <!-- LINKEDIN BUTTON -->
-<a href="https://www.linkedin.com/in/amina-hasanaath-7033a1309"
-style="
-text-decoration:none;
-display:inline-block;
-background:#1b1b1b;
-padding:14px 40px;
-border-radius:30px;
-font-size:20px;
-font-weight:600;
-color:white;
-border:1px solid #00FFAA;
-transition:0.25s;">
-💼 LinkedIn
+<a href="https://www.linkedin.com/in/amina-hasanaath-7033a1309">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFAA" />
+</a>
 </a>
 
 </div>
@@ -114,35 +93,14 @@ and journey as a Backend & AI enthusiast.
 <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
 
 <!-- VIEW REPO BUTTON -->
-<a href="https://github.com/AminaHasanaath/AminaHasanaath.github.io"
-style="
-text-decoration:none;
-display:inline-block;
-background:#1b1b1b;
-padding:18px 55px;
-border-radius:30px;
-font-size:22px;
-font-weight:600;
-color:white;
-border:1px solid #00E5FF;
-transition:0.25s;">
-🔗 View Repo
+<a href="https://github.com/AminaHasanaath/AminaHasanaath.github.io">
+  <img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" />
 </a>
 
 <!-- LIVE DEMO BUTTON -->
-<a href="https://AminaHasanaath.github.io"
-style="
-text-decoration:none;
-display:inline-block;
-background:#1b1b1b;
-padding:18px 55px;
-border-radius:30px;
-font-size:22px;
-font-weight:600;
-color:white;
-border:1px solid #B45BFF;
-transition:0.25s;">
-🚀 Live Demo
+<a href="https://AminaHasanaath.github.io">
+  <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=firefox&logoColor=B45BFF" />
+</a>
 </a>
 
 </div>
