@@ -62,16 +62,26 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=AminaHasanaath.github.io&theme=algolia" />
 
 ### 🌐 Portfolio Website
+
 A modern, clean personal portfolio built to showcase my skills, projects  
 and journey as a Backend & AI enthusiast.
-**Tech:** HTML • CSS • JavaScript • GitHub Pages
 
-<br>
+**Tech:** HTML • CSS • JavaScript • GitHub Pages  
+<br><br>
 
-🔗 **Repo:** https://github.com/AminaHasanaath/AminaHasanaath.github.io  
-🚀 **Live Demo:** https://AminaHasanaath.github.io
+<!-- Buttons -->
+<a href="https://github.com/AminaHasanaath/AminaHasanaath.github.io">
+  <img src="https://img.shields.io/badge/Repository-5DAEFF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://AminaHasanaath.github.io">
+  <img src="https://img.shields.io/badge/Live%20Demo-004E92?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
 </div>
+
 
 
 <br/>
