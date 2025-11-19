@@ -12,7 +12,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=5DAEFF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Amina+Hasanaath+👋;Backend+Developer+in+Progress+🚀;AI+%2B+Backend+Enthusiast+⚙️🤖;Always+ready+for+the+next+big+Bug+🐞" />
 </div>
-
 <br/>
 
 <!-- ========================================================= -->
@@ -57,7 +56,6 @@
 <!-- ========================================================= -->
 
 ## 📂 Featured Project  
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=AminaHasanaath.github.io&theme=algolia" />
@@ -69,7 +67,7 @@ and journey as a Backend & AI enthusiast.
 **Tech:** HTML • CSS • JavaScript • GitHub Pages  
 <br><br>
 
-<!-- ======================= BUTTONS (STYLE 1) ======================= -->
+<!-- ======================= GLASS NEON BUTTONS ======================= -->
 
 <a href="https://github.com/AminaHasanaath/AminaHasanaath.github.io">
   <img height="55" src="https://img.shields.io/badge/VIEW%20REPO-000000?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=101010&color=000000">
