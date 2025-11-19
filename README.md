@@ -27,52 +27,47 @@
 
 <br/>
 
-<!-- 🚀 ABOUT ME — LEFT-ALIGNED BUTTONS -->
-<div style="display: flex; gap: 20px;">
+<!-- ******** LEFT-ALIGNED BUTTONS (PORTFOLIO + LINKEDIN) ******** -->
 
-  <!-- Portfolio Button -->
-  <a href="https://AminaHasanaath.github.io"
-     style="
-      text-decoration: none;
-      padding: 14px 35px;
-      border-radius: 14px;
-      font-size: 20px;
-      font-weight: 800;
-      font-family: monospace;
-      color: #5DAEFF;
-      background: linear-gradient(145deg,#000,#0A0A0A);
-      border: 2px solid #5DAEFF;
-      transition: 0.25s;
-      box-shadow: 0px 0px 12px rgba(93,174,255,0.4);
-     "
-     onmouseover="this.style.boxShadow='0 0 18px #5DAEFF'"
-     onmouseout="this.style.boxShadow='0 0 12px rgba(93,174,255,0.4)'">
-     🌐 PORTFOLIO
-  </a>
+<div align="left" style="margin-left: 20px;">
 
-  <!-- LinkedIn Button -->
-  <a href="https://www.linkedin.com/in/amina-hasanaath-7033a1309"
-     style="
-      text-decoration: none;
-      padding: 14px 35px;
-      border-radius: 14px;
-      font-size: 20px;
-      font-weight: 800;
-      font-family: monospace;
-      color: #00FFAA;
-      background: linear-gradient(145deg,#000,#0A0A0A);
-      border: 2px solid #00FFAA;
-      transition: 0.25s;
-      box-shadow: 0px 0px 12px rgba(0,255,170,0.4);
-     "
-     onmouseover="this.style.boxShadow='0 0 18px #00FFAA'"
-     onmouseout="this.style.boxShadow='0 0 12px rgba(0,255,170,0.4)'">
-     💼 LINKEDIN
-  </a>
+<!-- PORTFOLIO BUTTON -->
+<a href="https://AminaHasanaath.github.io"
+style="
+display:inline-block;
+text-decoration:none;
+background:#1b1b1b;
+padding:14px 40px;
+border-radius:30px;
+font-size:20px;
+font-weight:600;
+color:white;
+border:1px solid #5DAEFF;
+transition:0.25s;">
+🌐 View Portfolio
+</a>
+
+&nbsp;&nbsp;
+
+<!-- LINKEDIN BUTTON -->
+<a href="https://www.linkedin.com/in/amina-hasanaath-7033a1309"
+style="
+display:inline-block;
+text-decoration:none;
+background:#1b1b1b;
+padding:14px 40px;
+border-radius:30px;
+font-size:20px;
+font-weight:600;
+color:white;
+border:1px solid #00FFAA;
+transition:0.25s;">
+💼 LinkedIn
+</a>
 
 </div>
 
-<br/><br/>
+<br/>
 
 <!-- ========================================================= -->
 <!--                         TECH STACK                         -->
@@ -116,51 +111,39 @@ and journey as a Backend & AI enthusiast.
 **Tech:** HTML • CSS • JavaScript • GitHub Pages  
 <br><br>
 
-<!-- ========================================================= -->
-<!--              SEND-STYLE GLOWY BUTTONS (BIG)               -->
-<!-- ========================================================= -->
+<!-- ******** SIDE-BY-SIDE BIG MODERN BUTTONS ******** -->
 
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
 
-  <!-- VIEW REPO BUTTON -->
-  <a href="https://github.com/AminaHasanaath/AminaHasanaath.github.io"
-     style="
-      text-decoration: none;
-      padding: 22px 65px;
-      border-radius: 16px;
-      font-size: 26px;
-      font-weight: 900;
-      font-family: monospace;
-      color: #00E5FF;
-      background: linear-gradient(145deg,#000,#0D0D0D);
-      border: 3px solid #00E5FF;
-      transition: 0.25s;
-      box-shadow: 0 0 18px rgba(0,229,255,0.6);
-     "
-     onmouseover="this.style.boxShadow='0 0 28px #00E5FF'"
-     onmouseout="this.style.boxShadow='0 0 18px rgba(0,229,255,0.6)'">
-     🔗 VIEW REPO
-  </a>
+<!-- VIEW REPO BUTTON -->
+<a href="https://github.com/AminaHasanaath/AminaHasanaath.github.io"
+style="
+text-decoration:none;
+background:#1b1b1b;
+padding:18px 55px;
+border-radius:30px;
+font-size:22px;
+font-weight:600;
+color:white;
+border:1px solid #00E5FF;
+transition:0.25s;">
+🔗 View Repo
+</a>
 
-  <!-- LIVE DEMO BUTTON -->
-  <a href="https://AminaHasanaath.github.io"
-     style="
-      text-decoration: none;
-      padding: 22px 65px;
-      border-radius: 16px;
-      font-size: 26px;
-      font-weight: 900;
-      font-family: monospace;
-      color: #B45BFF;
-      background: linear-gradient(145deg,#000,#0D0D0D);
-      border: 3px solid #B45BFF;
-      transition: 0.25s;
-      box-shadow: 0 0 18px rgba(180,91,255,0.6);
-     "
-     onmouseover="this.style.boxShadow='0 0 28px #B45BFF'"
-     onmouseout="this.style.boxShadow='0 0 18px rgba(180,91,255,0.6)'">
-     🚀 LIVE DEMO
-  </a>
+<!-- LIVE DEMO BUTTON -->
+<a href="https://AminaHasanaath.github.io"
+style="
+text-decoration:none;
+background:#1b1b1b;
+padding:18px 55px;
+border-radius:30px;
+font-size:22px;
+font-weight:600;
+color:white;
+border:1px solid #B45BFF;
+transition:0.25s;">
+🚀 Live Demo
+</a>
 
 </div>
 
@@ -174,7 +157,7 @@ and journey as a Backend & AI enthusiast.
 
 ## 💡 Fun Fact  
 ✨ The best part of coding? When the bug finally disappears…  
-…but a new one magically appears 💫
+…and a new one magically appears 💫
 
 <br/>
 
