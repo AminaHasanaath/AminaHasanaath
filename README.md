@@ -95,7 +95,7 @@ and journey as a Backend & AI enthusiast.
      onmouseover="this.style.boxShadow='0 0 14px #00E5FF'"
      onmouseout="this.style.boxShadow='none'">
      
-     <img src="https://skillicons.dev/icons?i=github" height="28">
+   <img src="https://skillicons.dev/icons?i=github" height="28">
      VIEW REPO
   </a>
 
@@ -119,7 +119,7 @@ and journey as a Backend & AI enthusiast.
      onmouseover="this.style.boxShadow='0 0 14px #B45BFF'"
      onmouseout="this.style.boxShadow='none'">
      
-     <img src="https://skillicons.dev/icons?i=chrome" height="28">
+   <img src="https://skillicons.dev/icons?i=chrome" height="28">
      LIVE DEMO
   </a>
 
@@ -155,7 +155,7 @@ and journey as a Backend & AI enthusiast.
      onmouseover="this.style.boxShadow='0 0 14px #5DAEFF'"
      onmouseout="this.style.boxShadow='none'">
 
-     <img src="https://skillicons.dev/icons?i=linkedin" height="28">
+   <img src="https://skillicons.dev/icons?i=linkedin" height="28">
      LINKEDIN
   </a>
 
