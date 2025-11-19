@@ -3,8 +3,14 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="1000" height="230" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwMCIgaGVpZ2h0PSIyMzAiIHZpZXdCb3g9IjAgMCAxMDAwIDIzMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxkZWZzPgogICAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjAlIj4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDBhYWZmIi8+CiAgICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDA3N2ZmIi8+CiAgICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICAgIDxmaWx0ZXIgaWQ9ImdsaXRjaCI+CiAgICAgICAgPGZlQ29sb3JNYXRyaXggdHlwZT0ibWF0cml4IiB2YWx1ZXM9IjEgMCAwIDAgMAogICAgICAgICAgICAgICAgICAgMCAxIDAgMCAwCiAgICAgICAgICAgICAgICAgIDAgMCAxIDAgMAogICAgICAgICAgICAgICAgICAwIDAgMCAxIDAiIHJlc3VsdD0ibm9ybWFsIi8+CiAgICAgICAgPGZlT2Zmc2V0IGluPSJub3JtYWwiIGR4PSIzIiBkeT0iMCIgcmVzdWx0PSJyIi8+CiAgICAgICAgPGZlQ29sb3JNYXRyaXggaW49InIiIHR5cGU9Im1hdHJpeCIgdmFsdWVzPSIxIDAgMCAwIDAKICAgICAgICAgICAgICAgICAgMCAtMCAwIDAgMAogICAgICAgICAgICAgICAgICAwIDAgMCAwIDAKICAgICAgICAgICAgICAgICAgMCAwIDAgMSAwIiByZXN1bHQ9InJDb2xvciIvPgogICAgICAgIDxmZU9mZnNldCBpPSJub3JtYWwiIGR4PSItMyIgZHk9IjAiIHJlc3VsdD0iYiIvPgogICAgICAgIDxmZUNvbG9yTWF0cml4IGluPSJiIiB0eXBlPSJtYXRyaXgiIHZhbHVlcz0iMCAwIDAgMCAwCiAgICAgICAgICAgICAgICAgIDAgMCAwIDAgMAogICAgICAgICAgICAgICAgICAwIDAgMSAwIDAKICAgICAgICAgICAgICAgICAgMCAwIDAgMSAwIiByZXN1bHQ9ImJDb2xvciIvPgogICAgICAgIDxmZUJsbGVuZCBpbj0ickNvbG9yIiBpbjI9ImJDb2xvciIgbW9kZT0ic2NyZWVuIiByZXN1bHQ9ImJsZW5kIi8+CiAgICAgICAgPGZlQmxlbmQgaW49ImJsZW5kIiBpbjI9Im5vcm1hbCIgbW9kZT0ibm9ybWFsIi8+CiAgICAgIDwvZmlsdGVyPgogICAgPC9kZWZzPgogICAgPHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iIzBhMGEwYSIvPgogICAgPHRleHQgeD0iNTAlIiB5PSI1NSUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iNjAiIGZvbnQtZmFtaWx5PSJKZXRCcmFpbnMgTW9ubywgbW9ub3NwYWNlIiBmaWxsPSJ1cmwoI2dyYWQpIiBmaWx0ZXI9InVybCgjZ2xpdGNoKSIgbGV0dGVyLXNwYWNpbmc9IjIiPkFtaW5hIEhhc2FuYWF0aDwvdGV4dD4KICAgIDx0ZXh0IHg9IjUwJSIgeT0iODIlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjI2IiBmb250LWZhbWlseT0iSmV0QnJhaW5zIE1vbm8sIG1vbm9zcGFjZSIgZmlsbD0iIzAwN0JGRiI+QmFja2VuZCBEZXZlbG9wZXIg4oCiIEFJICYgTUwgTGVhcm5lcjwvdGV4dD4KPC9zdmc+" />
+  <svg width="1000" height="230" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#0b0b0b"/>
+    <text x="50%" y="52%" text-anchor="middle" font-size="60" font-weight="700" font-family="monospace" fill="#00aaff">Amina Hasanaath</text>
+    <text x="50%" y="78%" text-anchor="middle" font-size="28" font-family="monospace" fill="#0077ff">Backend Developer • AI & ML Learner</text>
+  </svg>
 </p>
+
+
 
 
 
