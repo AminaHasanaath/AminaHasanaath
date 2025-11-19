@@ -56,13 +56,8 @@
 ## 📊 GitHub Analytics  
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AminaHasanaath&show_icons=true&theme=algolia" />
-
-<br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminaHasanaath&layout=compact&theme=algolia" />
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AminaHasanaath&show_icons=true&theme=algolia" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminaHasanaath&layout=compact&theme=algolia" />
 </div>
 
 <br/>
@@ -76,13 +71,19 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=Portfolio-Website&theme=algolia" />
+<!-- Temporary placeholder card (no errors) -->
+<img width="420" src="https://img.shields.io/badge/Portfolio%20Website-coming%20soon-5DAEFF?style=for-the-badge&logo=github" />
 
 <br/><br/>
 
 <b>Portfolio Website</b> — <i>(coming soon)</i>  
 Tech: HTML • CSS • JavaScript  
 A clean personal portfolio site to showcase my projects.
+
+<!-- When repo is created, replace this IMG with your GitHub stats pin -->
+<!-- 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=Portfolio-Website&theme=algolia" /> 
+-->
 
 </div>
 
