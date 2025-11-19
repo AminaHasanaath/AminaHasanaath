@@ -37,7 +37,6 @@
 <br>
 <b>Java • Spring Boot • Hibernate • MySQL • Python (AI/ML Basics) • C • VS Code • GitHub</b>
 </div>
-
 <br/>
 
 <!-- ========================================================= -->
@@ -95,10 +94,9 @@ and journey as a Backend & AI enthusiast.
      onmouseover="this.style.boxShadow='0 0 14px #00E5FF'"
      onmouseout="this.style.boxShadow='none'">
      
-   <img src="https://skillicons.dev/icons?i=github" height="28">
-     VIEW REPO
+  <img src="https://skillicons.dev/icons?i=github" height="28">
+    VIEW REPO
   </a>
-
   <!-- LIVE DEMO -->
   <a href="https://AminaHasanaath.github.io"
      style="
@@ -122,11 +120,8 @@ and journey as a Backend & AI enthusiast.
    <img src="https://skillicons.dev/icons?i=chrome" height="28">
      LIVE DEMO
   </a>
-
 </div>
-
 </div>
-
 <br/>
 
 <!-- ========================================================= -->
@@ -135,7 +130,6 @@ and journey as a Backend & AI enthusiast.
 
 ## 🌐 Connect With Me  
 <div align="center">
-
   <a href="https://www.linkedin.com/in/amina-hasanaath-7033a1309"
      style="
       text-decoration: none;
@@ -158,9 +152,7 @@ and journey as a Backend & AI enthusiast.
    <img src="https://skillicons.dev/icons?i=linkedin" height="28">
      LINKEDIN
   </a>
-
 </div>
-
 <br/>
 
 <!-- ========================================================= -->
