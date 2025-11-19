@@ -1,137 +1,121 @@
 <!-- --------------------------------------------------------------------- -->
-<!--                     🌟 A M I N A   H A S A N A A T H 🌟               -->
+<!--                     🌌 A M I N A   H A S A N A A T H 🌌               -->
 <!-- --------------------------------------------------------------------- -->
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=73C2FB&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Amina+Hasanaath+👋;Backend+Developer+in+Progress+🚀;Curious+about+AI+%2B+Backend+⚙️🤖;Always+ready+for+the+next+big+Bug+🐞" />
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&color=3ABEFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Amina+Hasanaath+👋;Backend+Developer+in+Progress+🚀;AI+%2B+Backend+Enthusiast+⚙️🤖;Always+Ready+for+the+Next+Big+Bug+🐞" />
 </div>
 
 ---
 
-## 🌸 About Me  
-✨ Curious about integrating **Backend Systems with AI**  
-🔥 Learning **Backend Development in Java**  
-🧩 Passionate about **DSA**, **System-Level Programming**, and low-level logic  
-🐛 Debugging is my superpower — the trickier, the better!  
+## <div align="center">🌸 About Me</div>
+
+<div align="center">
+
+✨ Exploring **Backend Systems + AI integration**  
+🔥 Learning **Backend Development with Java & Spring Boot**  
+🧩 Love **DSA**, **System Programming**, and low-level logic  
+🐛 Debugging is my comfort zone — the tougher the bug, the happier I am  
+
+</div>
 
 ---
 
-## 🛠 Tech Stack & Tools
+## <div align="center">🛠 Tech Stack (All in One Place)</div>
 
-### **Languages**
-<img src="https://skillicons.dev/icons?i=java" width="45" />  
-**Java**
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" width="45" />  
-**Python**
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,spring,hibernate,mysql,git,github,linux,postman&theme=dark" height="80" />
 
-<img src="https://skillicons.dev/icons?i=c" width="45" />  
-**C**
+<br>
 
-<img src="https://skillicons.dev/icons?i=cpp" width="45" />  
-**C++**
+### 💙 Tech Labels
+**Languages:** Java • Python • C • C++  
+**Backend:** Spring • Hibernate  
+**Database:** MySQL  
+**Tools:** Git • GitHub • Linux • Postman  
 
----
-
-### **Backend & Frameworks**
-<img src="https://skillicons.dev/icons?i=spring" width="45" />  
-**Spring / Spring Boot**
-
-<img src="https://skillicons.dev/icons?i=hibernate" width="45" />  
-**Hibernate**
+</div>
 
 ---
 
-### **Databases**
-<img src="https://skillicons.dev/icons?i=mysql" width="45" />  
-**MySQL**
+## <div align="center">📂 Featured Projects</div>
+
+<div align="center">
+
+### 🚀 **User Management API**
+**Tech:** Java • Spring Boot • MySQL  
+REST API for user registration, login, authentication & CRUD operations.
+
+🔗 *Add your GitHub link here*
 
 ---
 
-### **Tools**
-<img src="https://skillicons.dev/icons?i=git" width="45" />  
-**Git**
+### 🤖 **AI + Backend Integration**
+**Tech:** Python • Java • REST APIs  
+A backend pipeline that connects to AI models for text inference.
 
-<img src="https://skillicons.dev/icons?i=github" width="45" />  
-**GitHub**
-
-<img src="https://skillicons.dev/icons?i=linux" width="45" />  
-**Linux**
-
-<img src="https://skillicons.dev/icons?i=postman" width="45" />  
-**Postman**
+🔗 *Add your GitHub link here*
 
 ---
 
-# 📂 Featured Projects  
+### 🌐 **Portfolio Website**
+**Tech:** HTML • CSS • JS  
+Modern portfolio showcasing your work and journey.
 
-Below is a mix of:  
-✔ Real project placeholders  
-✔ Editable templates you can modify anytime  
-✔ Clean and attractive layout
-
----
-
-## 🚀 **1. Backend Project — User Management API**
-**Tech:** Java, Spring Boot, MySQL  
-A RESTful API for handling user registration, login, authentication, and CRUD operations.
-
-🔗 GitHub: *Add your link here*
+🔗 *Add your GitHub link here*
 
 ---
 
-## 🤖 **2. AI + Backend Integration Project**
-**Tech:** Python, Java, REST APIs  
-A backend service that connects to AI models for text responses or classification.
-
-🔗 GitHub: *Add your link here*
-
----
-
-## 🌐 **3. Portfolio Website**
-**Tech:** HTML, CSS, JavaScript  
-Your personal website showcasing projects, experience, and skills.
-
-🔗 GitHub: *Add your link here*
-
----
-
-## 📌 **4. (Placeholder)**  
-You can add more projects later — use this template:
-
+### 🧩 **Add More Projects (Template)**
 ```
-### 🧩 Project Title
+### 🧩 Project Title  
 **Tech:**  
-Short description of what the project does.
+Short description…
 
-🔗 GitHub: your-link-here
+🔗 GitHub: your-link-here  
 ```
+</div>
 
 ---
 
-## 📈 GitHub Analytics
+## <div align="center">📈 GitHub Analytics</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AminaHasanaath&show_icons=true&theme=tokyonight" />
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminaHasanaath&layout=compact&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AminaHasanaath&show_icons=true&theme=algolia" />
 
-<img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=AminaHasanaath&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminaHasanaath&layout=compact&theme=algolia" />
 
----
+<br><br>
 
-## 🌐 Connect With Me
+<img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=AminaHasanaath&theme=algolia" />
 
-<a href="https://www.linkedin.com/in/amina-hasanaath-7033a1309">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+</div>
 
 ---
 
-## 💡 Fun Fact  
-✨ The best part of coding? When the bug finally disappears…  
-…a new one magically appears 💫
+## <div align="center">🌐 Connect With Me</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/amina-hasanaath-7033a1309">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-### ⭐ If you like my profile, consider giving a star to my repositories!
+## <div align="center">💡 Fun Fact</div>
+
+<div align="center">
+✨ When one bug disappears… another one respawns like a boss level.  
+</div>
+
+---
+
+<div align="center">
+  
+### ⭐ If you like my work, consider starring my repositories!
+
+</div>
 
