@@ -2,7 +2,7 @@
 <!--         🚀 CYBERPUNK GLITCH BANNER (OP LEVEL)             -->
 <!-- ========================================================= -->
 <p align="center">
-  <img src="sandbox:/mnt/data/banner_final.svg" width="1000">
+  <img src="https://github.com/AminaHasanaath/AminaHasanaath/raw/main/Screenshot%202025-11-19%20234542.png" width="1000">
 </p>
 
 <!-- ========================================================= -->
