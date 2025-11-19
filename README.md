@@ -1,101 +1,99 @@
 <!-- ========================================================= -->
-<!--               🌟 A M I N A   H A S A N A A T H 🌟         -->
+<!--         🚀 CYBERPUNK GLITCH BANNER (OP LEVEL)             -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text=Amina%20Hasanaath&width=1000&height=250" />
+</p>
+
+
+<!-- ========================================================= -->
+<!--               🌟 TAGLINE ANIMATION                         -->
 <!-- ========================================================= -->
 
 <div align="center">
-  
 <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=5DAEFF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Amina+Hasanaath+👋;Backend+Developer+in+Progress+🚀;AI+%2B+Backend+Enthusiast+⚙️🤖;Always+ready+for+the+next+big+Bug+🐞" />
-
 </div>
 
 <br/>
 
-<!-- ========================================================= -->
-<!--                ABOUT ME + ANALYTICS (2 COLUMNS)            -->
-<!-- ========================================================= -->
 
-<table>
-<tr>
-
-<!-- LEFT COLUMN: ABOUT ME -->
-<td width="50%" valign="top">
+<!-- ========================================================= -->
+<!--                         ABOUT ME                           -->
+<!-- ========================================================= -->
 
 ## 🌸 About Me  
-
 ✨ Curious about integrating **Backend Systems with AI**  
 🔥 Learning **Backend Development in Java**  
 🧩 Love **DSA**, **System-Level Programming**, and low-level concepts  
-🐛 Debugging = Brain Gym — I enjoy fixing tricky bugs!  
-
-</td>
-
-<!-- RIGHT COLUMN: ANALYTICS -->
-<td width="50%" valign="top" align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=AminaHasanaath&show_icons=true&theme=algolia" />
+🐛 Debugging = Brain Gym — I enjoy hunting tricky bugs!  
 
 <br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminaHasanaath&layout=compact&theme=algolia" />
-
-</td>
-
-</tr>
-</table>
-
-<br/>
 
 <!-- ========================================================= -->
-<!--                       TECH STACK                           -->
+<!--                         TECH STACK                         -->
 <!-- ========================================================= -->
 
-<h2 align="center">🛠 Tech Stack</h2>
-
+## 🛠 Tech Stack  
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,python,linux,git,github" height="85" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,python,c,vscode,github" height="85" />
 
-<br><br>
+<br/><br/>
 
-<b>Java • Spring Boot • Hibernate • MySQL • AI/ML Basics • Linux • Git • GitHub</b>
+<b>Java • Spring Boot • Hibernate • MySQL • Python (AI/ML Basics) • C • VS Code • GitHub</b>
 
 </div>
 
 <br/>
 
+
 <!-- ========================================================= -->
-<!--                   FEATURED PROJECT (1 CARD)                -->
+<!--                     GITHUB ANALYTICS                       -->
 <!-- ========================================================= -->
 
-<h2 align="center">📂 Featured Project</h2>
+## 📊 GitHub Analytics  
 
 <div align="center">
 
-<table>
-<tr>
-<td width="45%" align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AminaHasanaath&show_icons=true&theme=algolia" />
+
+<br/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminaHasanaath&layout=compact&theme=algolia" />
+
+</div>
+
+<br/>
+
+
+<!-- ========================================================= -->
+<!--                    FEATURED PROJECT                        -->
+<!-- ========================================================= -->
+
+## 📂 Featured Project  
+
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=Portfolio-Website&theme=algolia" />
 
-<br><br>
+<br/><br/>
 
 <b>Portfolio Website</b> — <i>(coming soon)</i>  
 Tech: HTML • CSS • JavaScript  
-A clean personal portfolio website to showcase my projects.
-
-</td>
-</tr>
-</table>
+A clean personal portfolio site to showcase my projects.
 
 </div>
 
 <br/>
 
+
 <!-- ========================================================= -->
-<!--                     SOCIAL LINKS                           -->
+<!--                       SOCIAL LINKS                         -->
 <!-- ========================================================= -->
 
-<h2 align="center">🌐 Connect With Me</h2>
+## 🌐 Connect With Me  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amina-hasanaath-7033a1309">
@@ -105,8 +103,9 @@ A clean personal portfolio website to showcase my projects.
 
 <br/>
 
+
 <!-- ========================================================= -->
-<!--                       FUN FACT                             -->
+<!--                         FUN FACT                           -->
 <!-- ========================================================= -->
 
 ## 💡 Fun Fact  
@@ -115,8 +114,11 @@ A clean personal portfolio website to showcase my projects.
 
 <br/>
 
-<div align="center">
-  
-### ⭐ If you like my profile, consider giving a star to my repositories!
 
+<!-- ========================================================= -->
+<!--                       BLUE NEON FOOTER                     -->
+<!-- ========================================================= -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:5DAEFF&height=90&section=footer"/>
 </div>
