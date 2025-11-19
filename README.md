@@ -1,19 +1,9 @@
 <!-- ========================================================= -->
 <!--         🚀 CYBERPUNK GLITCH BANNER (OP LEVEL)             -->
 <!-- ========================================================= -->
-
 <p align="center">
-  <svg width="1000" height="230" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100%" height="100%" fill="#0b0b0b"/>
-    <text x="50%" y="52%" text-anchor="middle" font-size="60" font-weight="700" font-family="monospace" fill="#00aaff">Amina Hasanaath</text>
-    <text x="50%" y="78%" text-anchor="middle" font-size="28" font-family="monospace" fill="#0077ff">Backend Developer • AI & ML Learner</text>
-  </svg>
+  <img src="sandbox:/mnt/data/banner_final.svg" width="1000">
 </p>
-
-
-
-
-
 <!-- ========================================================= -->
 <!--               🌟 TAGLINE ANIMATION                         -->
 <!-- ========================================================= -->
@@ -21,10 +11,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=5DAEFF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Amina+Hasanaath+👋;Backend+Developer+in+Progress+🚀;AI+%2B+Backend+Enthusiast+⚙️🤖;Always+ready+for+the+next+big+Bug+🐞" />
 </div>
-
 <br/>
-
-
 <!-- ========================================================= -->
 <!--                         ABOUT ME                           -->
 <!-- ========================================================= -->
@@ -36,8 +23,6 @@
 🐛 Debugging = Brain Gym — I enjoy hunting tricky bugs!  
 
 <br/>
-
-
 <!-- ========================================================= -->
 <!--                         TECH STACK                         -->
 <!-- ========================================================= -->
@@ -46,14 +31,9 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,python,c,vscode,github" height="85" />
-
-<br/><br/>
-
 <b>Java • Spring Boot • Hibernate • MySQL • Python (AI/ML Basics) • C • VS Code • GitHub</b>
 
 </div>
-
-<br/>
 
 
 <!-- ========================================================= -->
