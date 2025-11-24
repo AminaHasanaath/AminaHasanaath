@@ -91,7 +91,7 @@ and journey as a Backend & AI enthusiast.
 <br><br>
 <div align="center">
 
-<a href="">
+<a href="https://github.com/AminaHasanaath/FaceDetectProject.git">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=FullFaceDetect&theme=algolia" />
 </a>
 
