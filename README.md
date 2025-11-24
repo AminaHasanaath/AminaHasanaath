@@ -75,9 +75,11 @@
 <!--                    FEATURED PROJECT                        -->
 <!-- ========================================================= -->
 
+
+
 ## 📂 Featured Project  
 
-<div align="center">
+<div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=AminaHasanaath.github.io&theme=algolia" />
 
@@ -87,12 +89,15 @@ and journey as a Backend & AI enthusiast.
 
 **Tech:** HTML • CSS • JavaScript • GitHub Pages  
 <br><br>
-<div align="center">
+<div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=AminaHasanaath.github.io&theme=algolia" />
+<a href="https://github.com/AminaHasanaath/FullFaceDetect">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=FullFaceDetect&theme=algolia" />
+</a>
 
 ### 🔎 Full Face Detect Project 
-A simple Java project demonstrating *face detection* using the *OpenCV* library. The program detects faces in an input image and marks them with rectangles.
+A simple Java project demonstrating *face detection* using the *OpenCV* library.  
+The program detects faces in an input image and marks them with rectangles.
 
 **Tech:** Java • OpenCV • GitHub   
 <br><br>
