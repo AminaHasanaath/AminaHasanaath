@@ -79,7 +79,7 @@
 
 ## 📂 Featured Project  
 
-<div align="left">
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=AminaHasanaath.github.io&theme=algolia" />
 
@@ -89,9 +89,9 @@ and journey as a Backend & AI enthusiast.
 
 **Tech:** HTML • CSS • JavaScript • GitHub Pages  
 <br><br>
-<div align="left">
+<div align="center">
 
-<a href="https://github.com/AminaHasanaath/FullFaceDetect">
+<a href="">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=FullFaceDetect&theme=algolia" />
 </a>
 
