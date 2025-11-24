@@ -80,7 +80,6 @@
 ## 📂 Featured Project  
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=AminaHasanaath.github.io&theme=algolia" />
 
 ### 🌐 Portfolio Website  
@@ -89,10 +88,11 @@ and journey as a Backend & AI enthusiast.
 
 **Tech:** HTML • CSS • JavaScript • GitHub Pages  
 <br><br>
+
 <div align="center">
 
-<a href="https://github.com/AminaHasanaath/FaceDetectProject.git">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=FullFaceDetect&theme=algolia" />
+<a href="https://github.com/AminaHasanaath/FaceDetectProject">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=FaceDetectProject&theme=algolia" />
 </a>
 
 ### 🔎 Full Face Detect Project 
@@ -101,6 +101,7 @@ The program detects faces in an input image and marks them with rectangles.
 
 **Tech:** Java • OpenCV • GitHub   
 <br><br>
+
 
 <!-- ******** SIDE-BY-SIDE CLICKABLE BUTTONS ******** -->
 
