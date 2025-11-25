@@ -83,10 +83,16 @@
 <!-- ========================================================= -->
 
 
-
-## 📂 Featured Project  
+## 📂 Featured Projects  
 
 <div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<!-- ========== PROJECT 1 ========== -->
+
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=AminaHasanaath.github.io&theme=algolia" />
 
 ### 🌐 Portfolio Website  
@@ -94,41 +100,44 @@ A modern, clean personal portfolio built to showcase my skills, projects
 and journey as a Backend & AI enthusiast.
 
 **Tech:** HTML • CSS • JavaScript • GitHub Pages  
-<br><br>
+<br>
+
 <!-- LIVE DEMO BUTTON -->
 <a href="https://AminaHasanaath.github.io">
   <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=firefox&logoColor=B45BFF" />
 </a>
 
+</td>
 
-### 🔎 Full Face Detect Project 
-A simple Java project demonstrating *face detection* using the *OpenCV* library.  
-The program detects faces in an input image and marks them with rectangles.
 
-**Tech:** Java • OpenCV • GitHub   
-<br><br>
-<div align="center">
+<td align="center" width="50%">
+
+<!-- ========== PROJECT 2 ========== -->
 
 <a href="https://github.com/AminaHasanaath/FaceDetectProject">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=FaceDetectProject&theme=algolia" />
 </a>
 
+### 🔎 Full Face Detect Project  
+A Java project demonstrating *face detection* using **OpenCV**.  
+It detects faces in an image and draws bounding rectangles.
 
-<!-- ******** SIDE-BY-SIDE CLICKABLE BUTTONS ******** -->
-
-<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
+**Tech:** Java • OpenCV • GitHub  
+<br>
 
 <!-- VIEW REPO BUTTON -->
 <a href="https://github.com/AminaHasanaath/FaceDetectProject">
   <img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" />
 </a>
-</a>
 
-</div>
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
+
 
 <!-- ========================================================= -->
 <!--                         FUN FACT                           -->
