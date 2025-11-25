@@ -124,18 +124,16 @@ Detects faces in an image using **OpenCV** and marks them with rectangles.
 <br>
 
 <a href="https://github.com/AminaHasanaath/FaceDetectProject">
-  <img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
 </td>
 
-
-<!-- ========== PROJECT 3 (PYTHON) ========== -->
 <!-- ========== PROJECT 3 (PYTHON) ========== -->
 <td align="center" width="33%">
 
 <a href="https://github.com/AminaHasanaath/WeatherProject">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=WeatherProject&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=WeatherProject&theme=algolia"/>
 </a>
 
 ### 🌦️ Python Weather App — Mini Project  
@@ -146,7 +144,7 @@ and displays it using a clean HTML UI.
 <br>
 
 <a href="https://github.com/AminaHasanaath/WeatherProject">
-  <img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
 </td>
