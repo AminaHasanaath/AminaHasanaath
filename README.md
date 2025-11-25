@@ -114,7 +114,7 @@ and journey as a Backend & AI enthusiast.
 <td align="center" width="33%">
 
 <a href="https://github.com/AminaHasanaath/FaceDetectProject">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=FaceDetectProject&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=FaceDetectProject&theme=algolia"/>
 </a>
 
 ### 🔎 Java Full Face Detect — Mini Project  
