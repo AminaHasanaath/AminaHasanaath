@@ -131,6 +131,7 @@ Detects faces in an image using **OpenCV** and marks them with rectangles.
 
 
 <!-- ========== PROJECT 3 (PYTHON) ========== -->
+<!-- ========== PROJECT 3 (PYTHON) ========== -->
 <td align="center" width="33%">
 
 <a href="https://github.com/AminaHasanaath/WeatherProject">
