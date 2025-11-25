@@ -66,9 +66,14 @@
 
 ## 📊 GitHub Analytics  
 <div align="center">
+  <img height="160" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=AminaHasanaath&show_icons=true&theme=algolia" />
+  <img height="160" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=AminaHasanaath&layout=compact&theme=algolia" />
+</div>
+
+<!--<div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=AminaHasanaath&show_icons=true&theme=algolia" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminaHasanaath&layout=compact&theme=algolia" />
-</div>
+</div>-->
 
 
 <br/>
