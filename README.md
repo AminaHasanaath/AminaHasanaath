@@ -89,12 +89,11 @@ and journey as a Backend & AI enthusiast.
 
 **Tech:** HTML • CSS • JavaScript • GitHub Pages  
 <br><br>
-
-<div align="center">
-
-<a href="https://github.com/AminaHasanaath/FaceDetectProject">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=FaceDetectProject&theme=algolia" />
+<!-- LIVE DEMO BUTTON -->
+<a href="https://AminaHasanaath.github.io">
+  <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=firefox&logoColor=B45BFF" />
 </a>
+
 
 ### 🔎 Full Face Detect Project 
 A simple Java project demonstrating *face detection* using the *OpenCV* library.  
@@ -102,6 +101,11 @@ The program detects faces in an input image and marks them with rectangles.
 
 **Tech:** Java • OpenCV • GitHub   
 <br><br>
+<div align="center">
+
+<a href="https://github.com/AminaHasanaath/FaceDetectProject">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=FaceDetectProject&theme=algolia" />
+</a>
 
 
 <!-- ******** SIDE-BY-SIDE CLICKABLE BUTTONS ******** -->
@@ -109,13 +113,8 @@ The program detects faces in an input image and marks them with rectangles.
 <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
 
 <!-- VIEW REPO BUTTON -->
-<a href="https://github.com/AminaHasanaath/AminaHasanaath.github.io">
+<a href="https://github.com/AminaHasanaath/FaceDetectProject">
   <img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" />
-</a>
-
-<!-- LIVE DEMO BUTTON -->
-<a href="https://AminaHasanaath.github.io">
-  <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=firefox&logoColor=B45BFF" />
 </a>
 </a>
 
