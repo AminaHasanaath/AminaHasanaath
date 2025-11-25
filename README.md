@@ -118,7 +118,7 @@ and journey as a Backend & AI enthusiast.
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=FaceDetectProject&theme=algolia" />
 </a>
 
-### 🔎 Full Face Detect Project  
+### 🔎 Java Full Face Detect - Mini Project  
 A Java project demonstrating *face detection* using **OpenCV**.  
 It detects faces in an image and draws bounding rectangles.
 
@@ -129,6 +129,18 @@ It detects faces in an image and draws bounding rectangles.
 <a href="https://github.com/AminaHasanaath/FaceDetectProject">
   <img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" />
 </a>
+
+### 🌦️ Python Weather App — Mini Project  
+A simple but complete **Python + FastAPI** project that fetches live weather data from **OpenWeatherMap API** and displays it using a clean HTML UI.
+
+**Tech:** Python • FastAPI • HTML • Bootstrap • OpenWeather API  
+<br>
+
+<!-- VIEW REPO BUTTON -->
+<a href="https://github.com/AminaHasanaath/WeatherProject">
+  <img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" />
+</a>
+
 
 </td>
 </tr>
