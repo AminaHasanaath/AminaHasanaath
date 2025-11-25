@@ -51,11 +51,12 @@
 <!-- ========================================================= -->
 
 ## 🛠 Tech Stack  
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,python,c,vscode,github,pycharm,FastAPI,HTML" height="85" />
- <br>
-<b>Java • Spring Boot • Hibernate • MySQL • Python (AI/ML Basics) • C • VS Code • GitHub • pycharm •FastAPI  • HTML</b> 
+<div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,python,c,vscode,github,pycharm,fastapi,html" height="85" />
+    <br>
+    <b>Java • Spring Boot • Hibernate • MySQL • Python (AI/ML Basics) • C • VS Code • GitHub • PyCharm • FastAPI • HTML</b>
 </div>
+
 
 <br/>
 
