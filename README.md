@@ -149,7 +149,6 @@ and displays it using a clean HTML UI.
 </a>
 
 </td>
-
 </tr>
 </table>
 
