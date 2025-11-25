@@ -141,7 +141,6 @@ A simple but complete **Python + FastAPI** project that fetches live weather dat
   <img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" />
 </a>
 
-
 </td>
 </tr>
 </table>
