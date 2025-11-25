@@ -82,27 +82,27 @@
 <!--                    FEATURED PROJECT                        -->
 <!-- ========================================================= -->
 
-
 ## 📂 Featured Projects  
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="50%">
 
 <!-- ========== PROJECT 1 ========== -->
+<td align="center" width="33%">
 
+<a href="https://github.com/AminaHasanaath/AminaHasanaath.github.io">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=AminaHasanaath.github.io&theme=algolia" />
+</a>
 
 ### 🌐 Portfolio Website  
-A modern, clean personal portfolio built to showcase my skills, projects  
+A modern, clean personal portfolio showcasing my skills, projects  
 and journey as a Backend & AI enthusiast.
 
 **Tech:** HTML • CSS • JavaScript • GitHub Pages  
 <br>
 
-<!-- LIVE DEMO BUTTON -->
 <a href="https://AminaHasanaath.github.io">
   <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=firefox&logoColor=B45BFF" />
 </a>
@@ -110,44 +110,52 @@ and journey as a Backend & AI enthusiast.
 </td>
 
 
-<td align="center" width="50%">
-
 <!-- ========== PROJECT 2 ========== -->
+<td align="center" width="33%">
 
 <a href="https://github.com/AminaHasanaath/FaceDetectProject">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=FaceDetectProject&theme=algolia" />
 </a>
 
-### 🔎 Java Full Face Detect - Mini Project  
-A Java project demonstrating *face detection* using **OpenCV**.  
-It detects faces in an image and draws bounding rectangles.
+### 🔎 Java Full Face Detect — Mini Project  
+Detects faces in an image using **OpenCV** and marks them with rectangles.
 
 **Tech:** Java • OpenCV • GitHub  
 <br>
 
-<!-- VIEW REPO BUTTON -->
 <a href="https://github.com/AminaHasanaath/FaceDetectProject">
   <img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" />
 </a>
 
+</td>
+
+
+<!-- ========== PROJECT 3 (PYTHON) ========== -->
+<td align="center" width="33%">
+
+<a href="https://github.com/AminaHasanaath/WeatherProject">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=WeatherProject&theme=algolia" />
+</a>
+
 ### 🌦️ Python Weather App — Mini Project  
-A simple but complete **Python + FastAPI** project that fetches live weather data from **OpenWeatherMap API** and displays it using a clean HTML UI.
+Fetches real-time weather using **FastAPI + OpenWeatherMap**  
+and displays it using a clean HTML UI.
 
 **Tech:** Python • FastAPI • HTML • Bootstrap • OpenWeather API  
 <br>
 
-<!-- VIEW REPO BUTTON -->
 <a href="https://github.com/AminaHasanaath/WeatherProject">
   <img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" />
 </a>
 
 </td>
+
 </tr>
 </table>
 
 </div>
-
 <br/>
+
 
 
 <!-- ========================================================= -->
