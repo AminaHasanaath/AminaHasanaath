@@ -56,11 +56,12 @@
 
 ---
 
-### 🌦️ **Weather Dashboard API** *[Production Ready]*
-> **RESTful weather service with caching, rate limiting & real‑time updates**  
-**Tech:** Python 3.11 • FastAPI • Redis • OpenWeatherMap • Docker
+### 📚 **Library Management API** *[CRUD Backend]*
+> **Spring Boot REST API for managing books with full CRUD operations**  
+**Tech:** Java • Spring Boot • Spring Data JPA • H2 Database • Postman
 
-[![Repo](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AminaHasanaath/WeatherProject)
+[![Repo](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AminaHasanaath/library-management-api)
+
 
 <br/>
 
