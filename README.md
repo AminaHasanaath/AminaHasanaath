@@ -3,27 +3,28 @@
 </p>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=5DAEFF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Amina+Hasanaath;Backend+Developer+%7C+AI+Enthusiast;Building+scalable+systems+%26+intelligent+solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=5DAEFF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Amina+Hasanaath;AI+Backend+Engineer+%7C+Full-Stack+Developer;Building+scalable+systems+%26+intelligent+solutions" />
 </div>
 
 <br/>
 
 ## 👩‍💻 About Me
-**Backend Developer** | **AI Systems Engineer** | **Full-Stack Innovator**
-🔭 Currently: Building AI-powered backend systems with Java Spring Boot
-🌱 Learning: Microservices, Kubernetes, Advanced DSA, System Design
-💻 Expertise: REST APIs, Database Optimization, Computer Vision
-🎯 Goal: Create scalable, intelligent software that solves real problems
+**AI Backend Engineer** | **Full‑Stack Developer** | **Systems Thinker**
+
+- ✅ Strong foundation in **Java**, **Spring Boot**, **Hibernate**, and **RESTful APIs**
+- ✅ Experience integrating **AI/ML** workflows into backend services (e.g., FastAPI, OpenCV)
+- ✅ Passion for **clean code**, **performance optimization**, and **system reliability**
+- ✅ Constantly exploring **AI‑driven backend patterns**, from inference servers to pipeline orchestration
 
 <div align="left" style="margin-left: 20px; display: flex; gap: 15px; flex-wrap: wrap;">
 <a href="https://AminaHasanaath.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-2965F1?style=for-the-badge&logo=dev-dot-to&logoColor=white" height=35 />
+  <img src="https://img.shields.io/badge/Portfolio-2965F1?style=for-the-badge&logo=dev-dot-to&logoColor=white" height="35" />
 </a>
 <a href="https://www.linkedin.com/in/amina-hasanaath-7033a1309">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=35 />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
 </a>
 <a href="https://github.com/AminaHasanaath">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=35 />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35" />
 </a>
 </div>
 
@@ -56,34 +57,36 @@
 ---
 
 ### 🔎 **Java Face Detection** *[Computer Vision]*
-> **Real-time face detection using OpenCV with optimized Java processing**  
-**Tech:** Java 17 • OpenCV 4.x • Image Processing • Multi-threading
+> **Real‑time face detection using OpenCV with optimized Java processing**  
+**Tech:** Java 17 • OpenCV 4.x • Image Processing • Multi‑threading
 
 [![Repo](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AminaHasanaath/FaceDetectProject)
-[![Demo](https://img.shields.io/badge/Demo_Video-FF6B6B?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com) 
 
 ---
 
 ### 🌦️ **Weather Dashboard API** *[Production Ready]*
-> **RESTful weather service with caching, rate limiting & real-time updates**  
+> **RESTful weather service with caching, rate limiting & real‑time updates**  
 **Tech:** Python 3.11 • FastAPI • Redis • OpenWeatherMap • Docker
 
 [![Repo](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AminaHasanaath/WeatherProject)
-[![API Docs](https://img.shields.io/badge/API_Docs-00D4AA?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io)
 
 <br/>
 
-## 🔄 Workflows & Tools
+## 🔄 AI Backend Engineering Workflow
 ```mermaid
 graph LR
-    A[Java/Spring Boot] --> B[REST APIs]
-    C[Python/FastAPI] --> B
-    D[MySQL/Postgres] --> E[Docker]
-    F[Redis/Caching] --> E
-    E --> G[Kubernetes]
-    B --> H[Postman/Testing]
-    G --> I[Production]
+    A[AI/ML Models] --> B[FastAPI/OpenCV]
+    B --> C[Java/Spring Boot Backend]
+    C --> D[REST APIs]
+    D --> E[MySQL/Postgres]
+    F[Redis Cache] --> C
+    G[Docker] --> H[Kubernetes]
+    H --> I[Production]
+    C --> J[CI/CD: Jenkins/GitHub Actions]
+    J --> K[Monitoring & Logs]
 ```
+
+<br/>
 
 ## 📈 Contribution Graph
 <div align="center">
