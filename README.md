@@ -60,7 +60,7 @@
 > **Spring Boot REST API for managing books with full CRUD operations**  
 **Tech:** Java • Spring Boot • Spring Data JPA • H2 Database • Postman
 
-[![Repo](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AminaHasanaath/library-management-api)
+[![Repo](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AminaHasanaath/LibraryManagementAPI.git)
 
 
 <br/>
