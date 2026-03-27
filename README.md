@@ -47,25 +47,29 @@
 <br/>
 
 <!-- ========================================================= -->
-<!--                    GITHUB ANALYTICS                       -->
-<!-- ========================================================= -->
-## 📊 GitHub Analytics  
-<div align="center">
-  <img height="160" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=AminaHasanaath&show_icons=true&theme=algolia" />
-  <img height="160" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=AminaHasanaath&layout=compact&theme=algolia" />
-</div>
-
-<br/>
-
-<!-- ========================================================= -->
 ## 📂 Featured Projects  
 
 <div align="center">
 
-| **Portfolio Website** | **Java Face Detection** | **Weather App** |
-|---|---|---|
-| [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=AminaHasanaath.github.io&theme=algolia)](https://github.com/AminaHasanaath/AminaHasanaath.github.io) | [![Face Detection](https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=FaceDetectProject&theme=algolia)](https://github.com/AminaHasanaath/FaceDetectProject) | [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=AminaHasanaath&repo=WeatherProject&theme=algolia)](https://github.com/AminaHasanaath/WeatherProject) |
-| **🌐 Modern portfolio site**<br>HTML • CSS • JavaScript<br>[Live Demo](https://AminaHasanaath.github.io) | **🔎 OpenCV face detection**<br>Java • OpenCV<br>[View Repo](https://github.com/AminaHasanaath/FaceDetectProject) | **🌦️ Real-time weather API**<br>Python • FastAPI • OpenWeather<br>[View Repo](https://github.com/AminaHasanaath/WeatherProject) |
+### 🌐 Portfolio Website
+**Modern portfolio showcasing skills & projects**  
+**Tech:** HTML • CSS • JavaScript • GitHub Pages  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=firefox&logoColor=B45BFF)](https://AminaHasanaath.github.io)  
+[![View Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/AminaHasanaath/AminaHasanaath.github.io)
+
+---
+
+### 🔎 Java Face Detection
+**Detects faces in images using OpenCV**  
+**Tech:** Java • OpenCV  
+[![View Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/AminaHasanaath/FaceDetectProject)
+
+---
+
+### 🌦️ Weather App
+**Real-time weather using FastAPI + OpenWeatherMap**  
+**Tech:** Python • FastAPI • HTML • Bootstrap  
+[![View Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/AminaHasanaath/WeatherProject)
 
 </div>
 
