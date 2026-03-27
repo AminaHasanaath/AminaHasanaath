@@ -9,7 +9,7 @@
 <br/>
 
 ## 👩‍💻 About Me
-**AI Backend Engineer** | **Full‑Stack Developer** | **Systems Thinker**
+**AI Backend Engineer** | **Tech Geek** | **Building in Progress**
 
 - ✅ Strong foundation in **Java**, **Spring Boot**, **Hibernate**, and **RESTful APIs**
 - ✅ Experience integrating **AI/ML** workflows into backend services (e.g., FastAPI, OpenCV)
@@ -64,13 +64,23 @@
 
 <br/>
 
+## 📈 Skills Snapshot
+- **Languages:** Java, Python, SQL, JavaScript  
+- **Backend:** Spring Boot, Hibernate, REST APIs, Microservices  
+- **AI/ML:** Python AI/ML stack, OpenCV, FastAPI, model serving  
+- **Databases:** MySQL, PostgreSQL, Redis  
+- **DevOps:** Docker, Kubernetes, Git, CI/CD, Linux  
+- **Tools:** VS Code, IntelliJ/PyCharm, Git, Postman, Docker Desktop  
+
+<br/>
+
 ## 🔄 AI Backend Engineering Workflow
 ```mermaid
 graph LR
-    A[AI/ML Models] --> B[FastAPI/OpenCV]
-    B --> C[Java/Spring Boot Backend]
-    C --> D[REST APIs]
-    C --> E[MySQL/Postgres]
+    A[Advance - AI/ML Models] --> B[FastAPI/OpenCV]
+    B --> C[Server - Java/Spring Boot Backend]
+    C --> D[API - REST APIs]
+    C --> E[Databases - MySQL/Postgres]
     F[Redis Cache] --> C
     G[Docker] --> H[Kubernetes]
     H --> I[Production]
@@ -80,3 +90,8 @@ graph LR
 
 <br/>
 
+## 📬 Let’s Connect
+For **collaborations**, **internships**, or **AI/backend projects**, feel free to reach out via:  
+- LinkedIn: [amina-hasanaath-7033a1309](https://www.linkedin.com/in/amina-hasanaath-7033a1309)  
+- GitHub: [AminaHasanaath](https://github.com/AminaHasanaath)  
+- Portfolio: [AminaHasanaath.github.io](https://AminaHasanaath.github.io)
