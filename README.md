@@ -37,14 +37,6 @@
 
 <br/>
 
-## 📊 Quick Stats
-<div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=AminaHasanaath&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=5DAEFF&text_color=9ea5b3&icon_color=5DAEFF&hide=stars,issues,contrib" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminaHasanaath&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=5DAEFF&text_color=9ea5b3" />
-</div>
-
-<br/>
-
 ## 🚀 Featured Projects
 
 ### 🌐 **Portfolio Website** *[Live Demo]*
@@ -78,7 +70,7 @@ graph LR
     A[AI/ML Models] --> B[FastAPI/OpenCV]
     B --> C[Java/Spring Boot Backend]
     C --> D[REST APIs]
-    D --> E[MySQL/Postgres]
+    C --> E[MySQL/Postgres]
     F[Redis Cache] --> C
     G[Docker] --> H[Kubernetes]
     H --> I[Production]
@@ -88,15 +80,3 @@ graph LR
 
 <br/>
 
-## 📈 Contribution Graph
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AminaHasanaath&theme=radical&hide_border=true&background=0d1117" height="200" />
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=AminaHasanaath&color=5DAEFF&style=for-the-badge" />
-&nbsp;
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:5DAEFF&height=90&section=footer"/>
-</div>
