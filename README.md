@@ -64,13 +64,13 @@
 
 <br/>
 
-## 📈 Skills Snapshot
-- **Languages:** Java, Python, SQL, JavaScript  
-- **Backend:** Spring Boot, Hibernate, REST APIs, Microservices  
+## 📈 Skills Snapshot - Underline are In Progress
+- **Languages:** Java, Python, [SQL, JavaScript]  
+- **Backend:** Spring Boot, [Hibernate, REST APIs, Microservices]  
 - **AI/ML:** Python AI/ML stack, OpenCV, FastAPI, model serving  
-- **Databases:** MySQL, PostgreSQL, Redis  
-- **DevOps:** Docker, Kubernetes, Git, CI/CD, Linux  
-- **Tools:** VS Code, IntelliJ/PyCharm, Git, Postman, Docker Desktop  
+- **Databases:** [MySQL, PostgreSQL], Redis  
+- **DevOps:** Docker, Kubernetes, [Git], CI/CD, Linux  
+- **Tools:** VS Code, IntelliJ/PyCharm, Git, Postman, [Docker Desktop] 
 
 <br/>
 
