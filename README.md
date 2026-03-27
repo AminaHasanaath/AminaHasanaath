@@ -3,72 +3,97 @@
 </p>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=5DAEFF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Amina+Hasanaath;Backend+Developer+%7C+AI+Enthusiast;Building+scalable+systems+%26+smart+solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=5DAEFF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Amina+Hasanaath;Backend+Developer+%7C+AI+Enthusiast;Building+scalable+systems+%26+intelligent+solutions" />
 </div>
 
 <br/>
 
 ## 👩‍💻 About Me
-**Backend Developer in Progress** | **AI + Systems Enthusiast**
+**Backend Developer** | **AI Systems Engineer** | **Full-Stack Innovator**
+🔭 Currently: Building AI-powered backend systems with Java Spring Boot
+🌱 Learning: Microservices, Kubernetes, Advanced DSA, System Design
+💻 Expertise: REST APIs, Database Optimization, Computer Vision
+🎯 Goal: Create scalable, intelligent software that solves real problems
 
-- 🔭 Integrating **Backend Systems with AI/ML**
-- 🌱 Mastering **Java Spring Boot** & **System Design**
-- 💻 Passionate about **DSA**, low-level programming, & optimization
-- 🐛 Debug hunter | Clean code advocate
-
-<div align="left" style="margin-left: 20px; display: flex; gap: 20px; flex-wrap: wrap;">
+<div align="left" style="margin-left: 20px; display: flex; gap: 15px; flex-wrap: wrap;">
 <a href="https://AminaHasanaath.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-2965F1?style=for-the-badge&logo=dev-dot-to&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-2965F1?style=for-the-badge&logo=dev-dot-to&logoColor=white" height=35 />
 </a>
 <a href="https://www.linkedin.com/in/amina-hasanaath-7033a1309">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=35 />
 </a>
 <a href="https://github.com/AminaHasanaath">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=35 />
 </a>
 </div>
 
 <br/>
 
 ## 🛠 Tech Stack
-<div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,python,c,vscode,github,pycharm,fastapi,html" height="85" />
+<div style="text-align: center; margin: 0 auto; max-width: 800px;">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,redis,python,opencv,fastapi,docker,kubernetes,git,jenkins,vscode,postman" height="85" />
 </div>
 
 <br/>
 
-## 📂 Featured Projects
-
-### 🌐 **Portfolio Website**
-Modern, responsive personal portfolio  
-**Tech Stack:** HTML5 • CSS3 • JavaScript • GitHub Pages  
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2965F1?style=for-the-badge&logo=firefox&logoColor=white)](https://AminaHasanaath.github.io)  
-[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AminaHasanaath/AminaHasanaath.github.io)
-
----
-
-### 🔎 **Java Face Detection**
-Real-time face detection using OpenCV computer vision  
-**Tech Stack:** Java • OpenCV  
-[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AminaHasanaath/FaceDetectProject)
-
----
-
-### 🌦️ **Weather Dashboard**
-RESTful weather API with FastAPI & real-time data  
-**Tech Stack:** Python • FastAPI • OpenWeatherMap • Bootstrap  
-[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AminaHasanaath/WeatherProject)
+## 📊 Quick Stats
+<div align="center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=AminaHasanaath&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=5DAEFF&text_color=9ea5b3&icon_color=5DAEFF&hide=stars,issues,contrib" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminaHasanaath&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=5DAEFF&text_color=9ea5b3" />
+</div>
 
 <br/>
 
-## 📈 GitHub Stats
+## 🚀 Featured Projects
+
+### 🌐 **Portfolio Website** *[Live Demo]*
+> **Modern, responsive portfolio with smooth animations & SEO optimization**  
+**Tech:** HTML5 • CSS3 • JavaScript • GitHub Pages • Responsive Design
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2965F1?style=for-the-badge&logo=firefox&logoColor=white)](https://AminaHasanaath.github.io)
+[![Repo](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AminaHasanaath/AminaHasanaath.github.io)
+
+---
+
+### 🔎 **Java Face Detection** *[Computer Vision]*
+> **Real-time face detection using OpenCV with optimized Java processing**  
+**Tech:** Java 17 • OpenCV 4.x • Image Processing • Multi-threading
+
+[![Repo](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AminaHasanaath/FaceDetectProject)
+[![Demo](https://img.shields.io/badge/Demo_Video-FF6B6B?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com) 
+
+---
+
+### 🌦️ **Weather Dashboard API** *[Production Ready]*
+> **RESTful weather service with caching, rate limiting & real-time updates**  
+**Tech:** Python 3.11 • FastAPI • Redis • OpenWeatherMap • Docker
+
+[![Repo](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AminaHasanaath/WeatherProject)
+[![API Docs](https://img.shields.io/badge/API_Docs-00D4AA?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io)
+
+<br/>
+
+## 🔄 Workflows & Tools
+```mermaid
+graph LR
+    A[Java/Spring Boot] --> B[REST APIs]
+    C[Python/FastAPI] --> B
+    D[MySQL/Postgres] --> E[Docker]
+    F[Redis/Caching] --> E
+    E --> G[Kubernetes]
+    B --> H[Postman/Testing]
+    G --> I[Production]
+```
+
+## 📈 Contribution Graph
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AminaHasanaath&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=5DAEFF&icon_color=5DAEFF" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminaHasanaath&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=5DAEFF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AminaHasanaath&theme=radical&hide_border=true&background=0d1117" height="200" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:5DAEFF&height=90&section=footer"/>
+<img src="https://komarev.com/ghpvc/?username=AminaHasanaath&color=5DAEFF&style=for-the-badge" />
+&nbsp;
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:5DAEFF&height=90&section=footer"/>
 </div>
